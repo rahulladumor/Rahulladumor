@@ -13,55 +13,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there! 👋
+### Hi there, I'm Rahul Ladumor 👋
 
-**I am a Senior Software Developer & Architect with expertise in web and mobile application development. I possess extensive experience in AWS, Linux System Administration, DevOps, Serverless, Nodejs, JavaScript, and Networking.**
+I am a Senior Software Developer & Architect with expertise in various aspects of web and mobile application development, DevOps, and cloud technologies. My specialties include AWS, Linux System Administration, Serverless, Nodejs, JavaScript, Networking, IoT, Robotics, and mobile application development using React Native.
 
-## 🔭 What I Do
+### Currently Working On 🔭
+I am currently working on building serverless applications using Node.js, AWS Lambda, API Gateway, and other AWS services. I am also exploring blockchain technology and its potential applications in web development.
 
-- Develop Serverless Applications using Serverless Framework/SAM Framework, NodeJS, ReactJS, AngularJS, ExpressJS (MEAN Stack, MERN Stack)
-- Build IoT, Robotics, and mobile applications with React Native
-- Work with databases such as MongoDB, DynamoDb, DocumentDb, Redis, and Elasticsearch
-- Manage the hosting environment with skills in AWS, EC2, ECS, Amazon S3, AWS Lightsail, AWS Beanstalk, AWS EKS, and more
-- Possess expertise in DevOps technologies such as AWS, GCP, Azure, Linux Server Admin, Docker, Kubernetes, Microservices, Infrastructure as Code (Terraform), and Configuration Management + Deployment & Orchestration (Ansible)
+### Learning 🌱
+I am always looking to learn new technologies and improve my skills. Currently, I am learning about serverless architecture, blockchain, and cloud security.
 
-## 💻 My Skills
+### Open to Collaboration 💞️
+I am open to collaborating on open-source projects related to Node.js, AWS, and DevOps. If you have any project ideas or want to collaborate, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/rahulladumor/).
 
-- AWS
-- Node.js
-- DevOps
-- Serverless
-- Linux System Administration
-- React Native
-- JavaScript
-- Networking
-- ES 5/6/7
-- Express.js
-- Sails.js
-- Happy.js
-- Koa.js
-- Jest
-- Mocha
-- Grunt
-- Gulp
-- MongoDB
-- DynamoDb
-- DocumentDb
-- Redis
-- Elasticsearch
-- Web Sockets (Native + Socket.io)
-- Infrastructure as Code (Terraform)
-- Configuration Management + Deployment & Orchestration (Ansible)
+### Contact Me 📫
+Want to learn more about my expertise and experience? Check out my [LinkedIn](https://www.linkedin.com/in/rahulladumor/) profile or send me an email at rahuldladumor@gmail.com.
 
-## 🤝 Why Work With Me
+### Fun Fact ⚡
+I am an Alexa Skills developer and enjoy exploring new technologies. As a critical thinker, I can efficiently troubleshoot and debug complex problems. I am a good communicator, always punctual, and possess a friendly personality, making me an excellent team player.
 
-- Exceptional web development skills with a proven track record
-- Proficiency in database management including MongoDB (NoSQL), MySQL, DynamoDB, DocumentDB, and AWS RDS
-- Extensive experience in managing the hosting environment
-- Expertise in DevOps technologies such as AWS, GCP, Azure, Linux Server Admin, Docker, Kubernetes, Microservices, Infrastructure as Code (Terraform), and Configuration Management + Deployment & Orchestration (Ansible)
-- Ability to learn and implement new technologies quickly
-- Efficient troubleshooter and debugger of complex problems
-- Good communicator and team player
-- Always punctual and possess a friendly personality
-
-With my skills and expertise, I am confident in delivering exceptional quality work to meet and exceed client expectations. Feel free to check out my GitHub repositories and get in touch if you're interested in working together.
+Let's connect and create something amazing together! 🤝
