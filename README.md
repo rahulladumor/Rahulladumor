@@ -1,7 +1,5 @@
 ### Hi there, I'm Rahul Ladumor 👋
-
-<div align="left">
-    <a href="https://twitter.com/Rahul__ladumor">
+ <a href="https://twitter.com/Rahul__ladumor">
       <img
         src="https://img.shields.io/twitter/follow/Rahul__ladumor?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
         alt="Twitter"
@@ -13,6 +11,8 @@
         alt="LinkedIn"
       />
     </a>
+<div align="left">
+   
      
     <a href="https://app.daily.dev/rahulladumor"><img src="https://api.daily.dev/devcards/8f09575812fb48abb742ad02bf4425af.png?r=4ho" width="400" alt="Rahul Ladumor's Dev Card"/></a>
   </div>
