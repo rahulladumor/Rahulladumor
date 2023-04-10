@@ -14,7 +14,7 @@
       />
     </a>
      
-    <a href="https://app.daily.dev/rahulladumor"><img src="https://api.daily.dev/devcards/8f09575812fb48abb742ad02bf4425af.png?r=4ho" width="400" alt="Rahul Ladumor's Dev Card" align="right"/></a>
+    <a href="https://app.daily.dev/rahulladumor"><img src="https://api.daily.dev/devcards/8f09575812fb48abb742ad02bf4425af.png?r=4ho" width="400" alt="Rahul Ladumor's Dev Card"/></a>
   </div>
 
 I am a Senior Software Developer & Architect with expertise in various aspects of web and mobile application development, DevOps, and cloud technologies. My specialties include AWS, Linux System Administration, Serverless, Nodejs, JavaScript, Networking, IoT, Robotics, and mobile application development using React Native.
