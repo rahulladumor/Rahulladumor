@@ -1,5 +1,8 @@
 ### Hi there, I'm Rahul Ladumor 👋
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rahulladumor" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rahulladumor?trk=profile-badge">Rahul Ladumor</a></div>
+              
+
  <a href="https://twitter.com/Rahul__ladumor">
       <img
         src="https://img.shields.io/twitter/follow/Rahul__ladumor?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
