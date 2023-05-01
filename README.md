@@ -1,7 +1,5 @@
 ### Hi there, I'm Rahul Ladumor 👋
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rahulladumor" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rahulladumor?trk=profile-badge">Rahul Ladumor</a></div>
-              
+           
 
  <a href="https://twitter.com/Rahul__ladumor">
       <img
@@ -43,3 +41,6 @@ Want to learn more about my expertise and experience? Check out my [LinkedIn](ht
 I am an Alexa Skills developer and enjoy exploring new technologies. As a critical thinker, I can efficiently troubleshoot and debug complex problems. I am a good communicator, always punctual, and possess a friendly personality, making me an excellent team player.
 
 Let's connect and create something amazing together! 🤝
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rahulladumor" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rahulladumor?trk=profile-badge">Rahul Ladumor</a></div>
+              
