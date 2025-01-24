@@ -158,9 +158,9 @@ graph TD
   ### Show some ❤️ by starring some repositories!
 
 📚 Latest Articles:
-- [10 Trending Node.js Libraries and Frameworks](https://medium.com/@ladumorrahul)
-- [Deep Dive into .then() Method in JavaScript](https://medium.com/@ladumorrahul)
-- [Understanding Netflix's Backend Architecture](https://medium.com/@ladumorrahul)
+- [10 Trending Node.js Libraries and Frameworks](https://dev.to/rahulladumor/10-trending-nodejs-libraries-and-frameworks-to-boost-your-web-development-3aa5)
+- [Understanding Netflix's Backend Architecture: A Deep Dive 🚀](https://dev.to/rahulladumor/understanding-netflixs-backend-architecture-a-deep-dive-1f2c)
+- [Unit-Testing: The Unsung Hero of Code Quality 🛡️](https://dev.to/rahulladumor/unit-testing-the-unsung-hero-of-code-quality-e68)
   
   ![Wave](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 </div>
