@@ -40,7 +40,8 @@
 
 ## 🎯 About Me
 
-<table>
+<div align="center">
+<table width="95%">
 <tr>
 <td width="50%" valign="top">
 
@@ -167,6 +168,7 @@
 </td>
 </tr>
 </table>
+</div>
 
 ## 💡 What I Do Best
 
@@ -762,6 +764,7 @@ mindmap
 <div align="center">
 
 ### 🔥 Contribution Streak
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rahulladumor&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&ring=667eea&fire=764ba2&currStreakLabel=764ba2)](https://git.io/streak-stats)
 
 ### 📈 GitHub Statistics
