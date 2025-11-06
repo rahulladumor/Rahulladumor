@@ -46,132 +46,122 @@
 
 ### 👨‍💻 Professional Profile
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Senior_AWS_Solution_Architect-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AWS_Community_Builder-4x_(2022--Present)-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Location-🌍_Remote_(Global)-success?style=for-the-badge"/>
-</p>
-
-#### 🎯 Current Positions
-
-<table>
-  <tr>
-    <td>🏢 <b>ASTM International</b></td>
-    <td>Senior AWS Solution Architect</td>
-    <td><code>Sep 2025 - Present</code></td>
-  </tr>
-  <tr>
-    <td>🤖 <b>Turing</b></td>
-    <td>LLM Trainer - DevOps (Amazon IAC RLHF)</td>
-    <td><code>Jul 2025 - Present</code></td>
-  </tr>
-  <tr>
-    <td>💼 <b>Topmate.io</b></td>
-    <td>Cloud Coach & Consultant</td>
-    <td><code>Nov 2024 - Present</code></td>
-  </tr>
-  <tr>
-    <td>🚀 <b>Freelance</b></td>
-    <td>Cloud Consultant</td>
-    <td><code>Mar 2025 - Present</code></td>
-  </tr>
-</table>
-
-#### ⚡ Core Strengths
-
-<p align="center">
-  <img src="https://img.shields.io/badge/💰_Cost_Reduction-60%25_Average-28a745?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🚀_Performance-5M_orders/mo_<200ms-0066cc?style=for-the-badge"/>
-  <br/>
-  <img src="https://img.shields.io/badge/🔐_Security-Zero_Breaches-dc3545?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/👥_Mentored-200+_Engineers-ff9900?style=for-the-badge"/>
-</p>
-
-### 🎓 Education & Certifications
-
-<details open>
-<summary><b>📚 Currently Learning</b></summary>
-<br/>
-
-> **PG Certificate in Agentic AI, GenAI & ML**  
-> 🏛️ Indian Institute of Technology, Roorkee  
-> 📅 May 2025 - February 2026
-
-</details>
-
-<details>
-<summary><b>🎯 Completed</b></summary>
-<br/>
-
-| Degree | Institution | Year |
-|--------|-------------|------|
-| M.Sc. IT | VNSGU | 2018-2020 |
-| B.Sc. IT | VNSGU | 2016-2018 |
-
-</details>
-
-### 🌟 Quick Stats
-
 <div align="center">
 
-![Years](https://img.shields.io/badge/Experience-8%2B%20Years-blue?style=for-the-badge&logo=calendar&logoColor=white)
-![Certs](https://img.shields.io/badge/AWS%20Certs-3-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Mentored](https://img.shields.io/badge/Mentored-200%2B-green?style=for-the-badge&logo=github&logoColor=white)
+**Senior AWS Solution Architect** | **8+ Years Experience**
+
+<img src="https://img.shields.io/badge/AWS_Community_Builder-4x_(2022--Present)-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/🟢_Open_for_Opportunities-Remote_First-28a745?style=for-the-badge"/>
 
 </div>
+
+> **Core Specializations:**
+> - ☁️ Cloud Architecture & Cost Optimization
+> - ⚡ Serverless & Microservices Design
+> - 🔐 DevSecOps & Security Automation
+> - 🤖 Agentic AI Integration
+
+---
+
+#### 🎯 Current Engagements
+
+<div align="left">
+
+```diff
++ 🏢 ASTM International
+  └─ Senior AWS Solution Architect
+  └─ Sep 2025 - Present
+
++ 🤖 Turing (AI Training)
+  └─ LLM Trainer - DevOps & Amazon IAC RLHF
+  └─ Jul 2025 - Present
+
++ 💼 Topmate.io
+  └─ Cloud Coach & Consultant
+  └─ Nov 2024 - Present
+
++ 🚀 Independent Consulting
+  └─ AWS Architecture & Cost Optimization
+  └─ Mar 2025 - Present
+```
+
+</div>
+
+---
+
+#### 🎓 Education
+
+**📚 Currently Pursuing**
+> **PG Certificate in Agentic AI, GenAI & ML**  
+> 🏛️ IIT Roorkee | 📅 May 2025 - Feb 2026
+
+**🎯 Completed**
+- **M.Sc. IT** - VNSGU (2018-2020)
+- **B.Sc. IT** - VNSGU (2016-2018)
+
+---
+
+#### 🌟 Quick Stats
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-8+_Years-0066cc?style=flat-square&logo=calendar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_Certifications-3-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Engineers_Mentored-200+-28a745?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Projects-66+_Live-blueviolet?style=flat-square&logo=git&logoColor=white"/>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
 ### 📊 Impact Dashboard
 
-```css
-╔══════════════════════════════════════════╗
-║        MEASURABLE BUSINESS IMPACT        ║
-╠══════════════════════════════════════════╣
-║                                          ║
-║  💰 Total Cost Savings                   ║
-║  └─▶ ₹50 Crores+ across clients          ║
-║                                          ║
-║  📈 Average Cost Reduction               ║
-║  └─▶ 60% (Range: 30-70%)                 ║
-║                                          ║
-║  ⚡ Performance Achievement              ║
-║  └─▶ 5M orders/month @ <200ms            ║
-║                                          ║
-║  🎯 System Reliability                   ║
-║  └─▶ 99.99% uptime achieved              ║
-║                                          ║
-║  🔐 Security Track Record                ║
-║  └─▶ Zero incidents post-deployment      ║
-║                                          ║
-║  👥 Engineers Enabled                    ║
-║  └─▶ 200+ trained & certified            ║
-║                                          ║
-║  📝 Content Impact                       ║
-║  └─▶ 100K+ article views                 ║
-║                                          ║
-╚══════════════════════════════════════════╝
-```
+#### 💰 Cost Savings
+- **Total Saved:** ₹50+ Crores across 100+ clients
+- **Average Reduction:** 60% (Range: 30-70%)
 
-### 🚀 Availability Status
+#### ⚡ Performance Delivered
+- **Throughput:** 5M orders/month
+- **Latency:** <200ms average response time
+- **Uptime:** 99.99% SLA achieved
 
-<div align="center">
+#### 🔐 Security Excellence
+- **Incidents:** Zero post-implementation
+- **Compliance:** SOC2, ISO 27001
+- **Security Score:** 95%+
 
-| 💼 Type | 🟢 Status |
-|---------|----------|
-| Full-time | ✅ Open |
-| Contract | ✅ Open |
-| Consulting | ✅ Open |
-| Mentorship | ✅ Available |
-| Speaking | ✅ Available |
+#### 👥 Community Impact
+- **Engineers Trained:** 200+
+- **Article Views:** 100K+
+- **Live Projects:** 66 production-ready
 
-</div>
+---
+
+#### ⚡ Core Strengths
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💰_Cost_Optimization-Expert-28a745?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🚀_High_Performance-Proven-0066cc?style=flat-square"/>
+  <br/>
+  <img src="https://img.shields.io/badge/🔐_Zero_Trust_Security-Certified-dc3545?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🤖_AI_Integration-Advanced-blueviolet?style=flat-square"/>
+</p>
+
+---
+
+#### 🚀 Availability
 
 <div align="center">
-  <a href="https://app.daily.dev/rahulladumor">
-    <img src="https://api.daily.dev/devcards/8f09575812fb48abb742ad02bf4425af.png?r=4ho" width="300" alt="Dev Card"/>
-  </a>
+
+| Type | Status |
+|:----:|:------:|
+| 💼 Full-time | ✅ **Open** |
+| 📋 Contract | ✅ **Open** |
+| 💡 Consulting | ✅ **Available** |
+| 👨‍🏫 Mentorship | ✅ **Available** |
+| 🎤 Speaking | ✅ **Available** |
+
 </div>
 
 </td>
@@ -786,6 +776,18 @@ mindmap
 <td width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulladumor&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&text_color=a9b1d6&langs_count=8&hide=html,css" width="100%"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<br/>
+
+### 🎯 Developer Profile
+
+<a href="https://app.daily.dev/rahulladumor">
+  <img src="https://api.daily.dev/devcards/8f09575812fb48abb742ad02bf4425af.png?r=4ho" width="400" alt="Rahul Ladumor's Dev Card"/>
+</a>
 
 </td>
 </tr>
