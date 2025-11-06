@@ -286,9 +286,9 @@
 <sub>Associate Level • 2023</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://images.seeklogo.com/logo-png/31/2/amazon-web-services-aws-logo-png_seeklogo-319188.png" width="150"/><br/>
-<b>Technical Professional</b><br/>
-<sub>Professional Level • 2024</sub>
+<img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="150"/><br/>
+<b>Cloud Practitioner</b><br/>
+<sub>Foundational Level • 2024</sub>
 </td>
 </tr>
 </table>
@@ -765,7 +765,9 @@ mindmap
 
 ### 🔥 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rahulladumor&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&ring=667eea&fire=764ba2&currStreakLabel=764ba2)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulladumor&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&ring=667eea&fire=764ba2&currStreakLabel=764ba2" alt="GitHub Streak Stats"/>
+</a>
 
 ### 📈 GitHub Statistics
 
