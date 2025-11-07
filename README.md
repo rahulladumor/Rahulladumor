@@ -247,7 +247,7 @@
 <table>
 <tr>
 <td width="25%" align="center">
-<img src="https://github.com/Rahulladumor/Rahulladumor/assets/PLACEHOLDER/aws-community-builder.png?raw=true" width="100" onerror="this.src='https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/07/23/AWS-CBs-blog-image.png'" /><br/>
+<img src="https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/07/23/AWS-CBs-blog-image.png" width="100"/><br/>
 <b>AWS Community Builder</b><br/>
 <sub>4 years (2022-Present)</sub>
 </td>
@@ -275,20 +275,25 @@
 
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150"/><br/>
+<td align="center" width="25%">
+<img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="140"/><br/>
 <b>Solutions Architect</b><br/>
 <sub>Associate Level • 2023</sub>
 </td>
-<td align="center" width="33%">
-<img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="150"/><br/>
+<td align="center" width="25%">
+<img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="140"/><br/>
 <b>Developer</b><br/>
 <sub>Associate Level • 2023</sub>
 </td>
-<td align="center" width="33%">
-<img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="150"/><br/>
+<td align="center" width="25%">
+<img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="140"/><br/>
 <b>Cloud Practitioner</b><br/>
 <sub>Foundational Level • 2024</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/07/23/AWS-CBs-blog-image.png" width="140"/><br/>
+<b>Community Builder</b><br/>
+<sub>4x (2022-Present)</sub>
 </td>
 </tr>
 </table>
@@ -765,38 +770,13 @@ mindmap
 
 ### 🔥 Contribution Streak
 
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulladumor&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&ring=667eea&fire=764ba2&currStreakLabel=764ba2" alt="GitHub Streak Stats"/>
-</a>
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=rahulladumor&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&ring=667eea&fire=764ba2&currStreakLabel=764ba2)](https://git.io/streak-stats)
 
 ### 📈 GitHub Statistics
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rahulladumor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=764ba2&text_color=a9b1d6&count_private=true&include_all_commits=true" width="100%"/>
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulladumor&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&text_color=a9b1d6&langs_count=8&hide=html,css" width="100%"/>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<br/>
-
-### 🎯 Developer Profile
 
 <a href="https://app.daily.dev/rahulladumor">
   <img src="https://api.daily.dev/devcards/8f09575812fb48abb742ad02bf4425af.png?r=4ho" width="400" alt="Rahul Ladumor's Dev Card"/>
 </a>
-
-</td>
-</tr>
-</table>
 
 ### 🏆 GitHub Achievements
 
@@ -805,25 +785,6 @@ mindmap
 ### 📊 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulladumor&custom_title=Rahul's%20Contribution%20Graph&bg_color=1a1b27&color=667eea&line=764ba2&point=a9b1d6&area_color=667eea&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulladumor&theme=radical)
-
-<table>
-  <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulladumor&theme=radical" /></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulladumor&theme=radical" /></td>
-  </tr>
-  <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulladumor&theme=radical" /></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahulladumor&theme=radical&utcOffset=5.5" /></td>
-  </tr>
-</table>
 
 </div>
 
