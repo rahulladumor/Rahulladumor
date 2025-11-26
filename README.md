@@ -1230,6 +1230,62 @@ preferences:
 
 ---
 
+# 🏗️ InfraTales — My Open Source Organization
+
+<div align="center">
+
+<a href="https://github.com/InfraTales">
+  <img src="https://infratales.com/content/images/2025/11/favicon_icon-2.png" width="120" alt="InfraTales"/>
+</a>
+
+### **[InfraTales](https://github.com/InfraTales)** — Production-Ready AWS Infrastructure
+
+[![Website](https://img.shields.io/badge/Website-infratales.com-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://infratales.com)
+[![GitHub Org](https://img.shields.io/badge/GitHub-27+_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/InfraTales)
+[![Newsletter](https://img.shields.io/badge/Newsletter-Subscribe-764ba2?style=for-the-badge&logo=substack&logoColor=white)](https://infratales.com/newsletter)
+[![Premium](https://img.shields.io/badge/Premium-Content-FF9900?style=for-the-badge&logo=patreon&logoColor=white)](https://infratales.com/premium)
+
+<br/>
+
+<img src="https://img.shields.io/badge/🏗️_Projects-27+-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/📚_Documentation-100%25-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/💰_Cost_Docs-In_₹-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/🔒_Security_First-Always-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/🎯_Enterprise_Ready-Yes-purple?style=flat-square"/>
+
+</div>
+
+> **I founded [InfraTales](https://github.com/InfraTales)** to democratize enterprise-grade AWS infrastructure. Every project is battle-tested, fully documented with cost analysis in ₹, and production-ready.
+
+<details>
+<summary><b>🌟 Featured InfraTales Projects (Click to expand)</b></summary>
+
+<br/>
+
+| Category | Project | Description | Tech |
+|:---------|:--------|:------------|:-----|
+| 🏢 **Core** | [enterprise-secure-webapp-3tier](https://github.com/InfraTales/enterprise-secure-webapp-3tier) | Production 3-Tier Architecture | CDK Go |
+| 🏢 **Core** | [resilient-webapp-3tier](https://github.com/InfraTales/resilient-webapp-3tier) | Fault-Tolerant 3-Tier | CDK Java |
+| 🏢 **Core** | [zero-downtime-bluegreen-terraform](https://github.com/InfraTales/infratales-zero-downtime-bluegreen-terraform) | Blue/Green Deployments | Terraform |
+| 📊 **Observability** | [observability-platform-opentelemetry](https://github.com/InfraTales/observability-platform-opentelemetry) | Full Tracing + Metrics | CDK |
+| 📊 **Observability** | [chaos-engineering-platform](https://github.com/InfraTales/chaos-engineering-platform) | Resilience Testing | Terraform |
+| 🔒 **Security** | [zero-trust-network-architecture](https://github.com/InfraTales/zero-trust-network-architecture) | BeyondCorp Implementation | CDK |
+| 🔒 **Security** | [devsecops-pipeline-security](https://github.com/InfraTales/devsecops-pipeline-security) | Shift-Left Security | CDK |
+| 💰 **Cost** | [aws-cost-optimization-50l-case-study](https://github.com/InfraTales/infratales-aws-cost-optimization-50l-case-study) | ₹50L/year Savings | Terraform |
+| 🤖 **ML** | [mlops-full-lifecycle-platform](https://github.com/InfraTales/mlops-full-lifecycle-platform) | End-to-End ML Platform | CDK |
+
+</details>
+
+<div align="center">
+
+**[→ Explore All 27 InfraTales Projects](https://github.com/orgs/InfraTales/repositories)**
+
+[![Sponsor InfraTales](https://img.shields.io/badge/💖_Sponsor_InfraTales-GitHub_Sponsors-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/rahulladumor)
+
+</div>
+
+---
+
 ## 💬 Why Work With Me?
 
 <div align="center">
