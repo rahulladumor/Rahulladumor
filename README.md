@@ -202,7 +202,7 @@ Terraform, CDK, Kubernetes, CI/CD. Shipped fast, without breaking prod. Blue-gre
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions"/><br/>Actions</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus"/><br/>Prometheus</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana"/><br/>Grafana</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=pulumi" width="48" height="48" alt="Pulumi"/><br/>Pulumi</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/pulumi/8A3391" width="48" height="48" alt="Pulumi"/><br/>Pulumi</td>
 </tr>
 </table>
 
