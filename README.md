@@ -156,18 +156,32 @@ Terraform, CDK, Kubernetes, CI/CD. Shipped fast, without breaking prod. Blue-gre
 
 <div align="center">
 
-<img src="https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/07/23/AWS-CBs-blog-image.png" width="320" alt="AWS Community Builder"/>
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="110" alt="AWS Certified Solutions Architect – Professional"/><br/>
+<b>Solutions Architect</b><br/><sub>Professional · Feb 2026</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://images.credly.com/size/340x340/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/blob" width="110" alt="AWS Certified Generative AI Developer – Professional"/><br/>
+<b>GenAI Developer</b><br/><sub>Professional · Jan 2026</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://images.credly.com/size/340x340/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="110" alt="AWS Certified DevOps Engineer – Professional"/><br/>
+<b>DevOps Engineer</b><br/><sub>Professional</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/07/23/AWS-CBs-blog-image.png" width="300" alt="AWS Community Builder"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AWS_Solutions_Architect-Professional_(Feb_2026)-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_GenAI_Developer-Professional_(Jan_2026)-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/AWS_DevOps_Engineer-Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_Developer-Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<br/>
+<img src="https://img.shields.io/badge/AWS_Developer-Associate-232F3E?style=for-the-badge&logo=amazon&logoColor=white"/>
 <img src="https://img.shields.io/badge/HashiCorp-Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_Community_Builder-4x_Serverless_(2022–Present)-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Community_Builder-4x_Serverless-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
 
 <br/><br/>
 
