@@ -1,31 +1,31 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Rahul%20Ladumor&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AWS%20Cloud%20Architect%20%7C%20Cost%20Optimizer%20%7C%204x%20Community%20Builder&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Rahul%20Ladumor&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Principal%20Cloud%20%26%20AI%20Platform%20Architect&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=667eea&background=FF000000&center=true&vCenter=true&width=800&lines=💰+Saved+₹50Cr%2B+in+AWS+Costs+Across+100%2B+Clients;🚀+Processing+5M+Orders%2Fmonth+%3C200ms;🏆+4x+AWS+Community+Builder+(Serverless);🎓+Pursuing+Agentic+AI+from+IIT+Roorkee;👨‍🏫+Mentored+200%2B+Engineers+to+Success;🔐+Zero+Security+Incidents+Post-Implementation)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=667eea&background=FF000000&center=true&vCenter=true&width=820&lines=Production+GenAI+on+AWS+%E2%80%94+Bedrock%2C+RAG%2C+Agents;3x+AWS+Professional+Certified+%C2%B7+4x+Community+Builder;%E2%82%B950L%2B%2Fyr+Client+AWS+Waste+Removed;1%2C745+IaC+Tasks+Validated+%40+96.3%25;5M%2B+Orders%2Fmonth+%40+%3C200ms%2C+99.99%25+Uptime;9%2B+Years+%C2%B7+Founder%2C+InfraTales)](https://readme-typing-svg.demolab.com)
 
 </div>
 
 <div align="center">
-    <a href="https://twitter.com/Rahul__ladumor">
-        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-    </a>
     <a href="https://www.linkedin.com/in/rahulladumor/">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://peerlist.io/rahulladumor">
-        <img src="https://img.shields.io/badge/Peerlist-00AA45?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist"/>
+    <a href="https://www.rahulladumor.com">
+        <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Website"/>
+    </a>
+    <a href="https://infratales.com">
+        <img src="https://img.shields.io/badge/InfraTales-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="InfraTales"/>
     </a>
     <a href="https://dev.to/rahulladumor">
         <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
     </a>
-    <a href="https://medium.com/@ladumorrahul">
-        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    <a href="https://twitter.com/Rahul__ladumor">
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
     </a>
-    <a href="https://www.rahulladumor.in">
-        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+    <a href="https://topmate.io/rahulladumor">
+        <img src="https://img.shields.io/badge/Topmate-00D09C?style=for-the-badge&logo=calendly&logoColor=white" alt="Topmate"/>
     </a>
 </div>
 
@@ -33,15 +33,14 @@
   <br/>
   <img src="https://komarev.com/ghpvc/?username=rahulladumor&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/rahulladumor?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge" alt="Open Source"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/💰_Cost_Saved-₹50Cr+-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/⚡_Performance-5M_orders/mo-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🔒_Security-Zero_Incidents-critical?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💰_Waste_Removed-₹50L+/yr-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⚡_Scale-5M_orders/mo_@%3C200ms-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/✅_IaC_Validated-1,745_@_96.3%25-FF9900?style=for-the-badge"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Profile-10/10_Quality-FF9900?style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/badge/Last_Updated-November_2025-blue?style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/badge/Response_Time-Within_24h-green?style=flat-square&logo=gmail"/>
+  <img src="https://img.shields.io/badge/🟢_Open_to-Consulting_&_Fractional-28a745?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Last_Updated-May_2026-blue?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Response-Within_24h-green?style=for-the-badge&logo=gmail"/>
 </div>
 
 ---
@@ -50,25 +49,24 @@
 
 <div align="center">
 
-| 👨‍💼 **Who Am I?** | 📊 **My Impact** | 🔧 **Currently Working On** |
+| 👨‍💼 **Who Am I?** | 📊 **My Impact** | 🔧 **Currently** |
 |:------------------|:-----------------|:----------------------------|
-| **Senior AWS Solution Architect** | 💰 **₹50 Crores+ Saved** in AWS costs | 🤖 **Agentic AI** - PG Certificate from IIT Roorkee |
-| 📅 8+ Years Experience | ⚡ **5M Orders/Month** @ <200ms latency | 🏗️ **Auto-Triage Systems** - AWS Bedrock + LangChain |
-| 🎯 4x AWS Community Builder | 🔒 **Zero Security Incidents** post-deployment | ✍️ **Technical Writing** - 100K+ views on Dev.to |
-| 🏛️ ASTM International | 👥 **200+ Engineers** mentored to success | 🎯 **Open Source** - 66 production repositories |
-| 🤖 Turing (LLM Training) | 🌟 **99.99% Uptime** across production systems | 📚 **Community Building** - AWS Serverless category |
+| **Principal Cloud & AI Platform Architect** | ⚡ **5M orders/mo** @ <200ms, 99.99% uptime | 🤖 **Agentic AI** — PG Certificate, IIT Roorkee |
+| 📅 9+ Years (since 2016) | ✅ **1,745 IaC tasks** validated @ 96.3% | 🧰 **IdleLens** — AWS cloud-waste scanner SaaS |
+| 🏗️ Founder, **InfraTales** | 💰 **₹50L+/yr** client AWS waste removed | 🏛️ **ASTM International** — Valkey migration |
+| 🎯 4x AWS Community Builder | 🔐 Production GenAI on Bedrock + SageMaker | ✍️ **InfraTales.com** — AWS/AI war stories |
+| 🤝 Consulting + Fractional | 🌍 US · Japan · Canada · Thailand · Indonesia | 🎓 LLM/IaC RLHF @ Turing (Amazon) |
 
 <br/>
 
-<img src="https://img.shields.io/badge/Serverless-Expert-FF9900?style=for-the-badge&logo=aws-lambda"/>
-<img src="https://img.shields.io/badge/Status-🟢_Hiring-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Response-Within_24h-blue?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/AWS-3x_Professional-FF9900?style=for-the-badge&logo=amazon-aws"/>
+<img src="https://img.shields.io/badge/Status-🟢_Open_to_Consulting_&_Fractional-success?style=for-the-badge"/>
 
 <br/>
 
-**💼 Open for:** Senior/Staff Engineer Roles | Cloud Architecture Consulting | Speaking Engagements
+**💼 Open for:** GenAI Infrastructure · Platform & Reliability · Cost (FinOps) · Fractional Architect
 
-[📚 About Me](#-about-me) • [💻 Tech Stack](#-tech-arsenal--expertise) • [🚀 Projects](#-featured-projects) • [🏆 Achievements](#-recognition--achievements) • [📊 GitHub Stats](#-github-analytics--activity)
+[🎯 About](#-about-me) • [🎖️ Certifications](#-certifications) • [💻 Tech Stack](#-tech-arsenal--expertise) • [🚀 Projects](#-selected-projects) • [🧰 Products](#-products--builds) • [🧭 Work History](#-work-history)
 
 </div>
 
@@ -76,608 +74,189 @@
 
 ## 🎯 About Me
 
-<div align="center">
-<table width="95%">
+> **AI Platform & Solutions Architect with 9+ years building production AWS platforms, serverless backends, and GenAI infrastructure.** I work best with teams running serious systems under multi-region, high-traffic, cost-sensitive, on-call reality — where reliability and governance actually matter.
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 🌙 3:47 AM — the call I get hired for
+
+Most engagements start the same way. Something is on fire, or the AWS bill stopped making sense, or a GenAI system is falling apart under real traffic.
+
+I find what is bleeding, stop it, and make sure it cannot happen again.
+
+> **Recent:** a shared Redis pinned at **100% CPU with 1,620 open connections**, degrading a specifications-indexing pipeline. Root cause: a `KEYS *` call in Lambda, no connection pooling, hardcoded credentials. I shipped a **cost-neutral** migration to a dedicated Valkey 7.2 cluster — with a full rollback path, credentials remediated.
+
+I build systems that survive real traffic, real failure modes, and real cloud bills. Not demos. The boring, reliable kind that does not wake you up at 3 AM.
+
+</td>
+<td width="40%" valign="top">
+
+### 🎓 Education
+
+**PG Certificate — Agentic AI, GenAI & ML**
+🏛️ IIT Roorkee · 2025–2026
+
+**M.Sc. Information Technology**
+VNSGU Surat · 2018–2020
+
+**B.Sc. Information Technology**
+VNSGU Surat · 2016–2018
+
+🏅 Distinguished Alumni Recognition (60th Anniversary)
+
+📍 Surat, India · Remote-first · IST + US
+
+</td>
+</tr>
+</table>
+
+### 🛠️ Four things teams hire me for
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### 👨‍💻 Professional Profile
+**🤖 GenAI Infrastructure**
+Bedrock & SageMaker pipelines built for real traffic. RAG, agent workflows, guardrails, and evals that hold up past demo day — chunking, embedding selection, reranking, RAGAS + LangSmith loops.
+
+**💰 Cost Control (FinOps)**
+I find the spend your AWS bill is quietly bleeding and stop it. Token budgets, spend governance, right-sizing, S3 tiering, connection pooling. FinOps that actually sticks.
+
+</td>
+<td width="50%" valign="top">
+
+**🏗️ Platform & Reliability**
+Multi-region systems with proper observability, incident playbooks, and safe rollouts. Lambda Powertools, structured logging, tight IAM scoping to keep blast radius small.
+
+**🚀 Cloud Delivery**
+Terraform, CDK, Kubernetes, CI/CD. Shipped fast, without breaking prod. Blue-green and canary by default, rollback planned before the deploy.
+
+</td>
+</tr>
+</table>
+
+> **How I weigh a system:** Cost — what does this become at 10x scale? Reliability — what happens when one component fails? Blast radius — how much breaks at once? Ops load — who maintains this at 2 AM? Time to ship — is this overbuilt? **I prefer boring but reliable over clever but fragile. Every time.** If something is a bad idea, I say it directly and explain the consequence.
+
+---
+
+## 🎖️ Certifications
 
 <div align="center">
 
-**Senior AWS Solution Architect** | **8+ Years Experience**
-
-<img src="https://img.shields.io/badge/AWS_Community_Builder-4x_(2022--Present)-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Solutions_Architect-Professional_(Feb_2026)-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_GenAI_Developer-Professional_(Jan_2026)-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/🟢_Open_for_Opportunities-Remote_First-28a745?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS_DevOps_Engineer-Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Developer-Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/HashiCorp-Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Community_Builder-4x_Serverless_(2022–Present)-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
-</div>
+<br/><br/>
 
-> **Core Specializations:**
-> - ☁️ Cloud Architecture & Cost Optimization
-> - ⚡ Serverless & Microservices Design
-> - 🔐 DevSecOps & Security Automation
-> - 🤖 Agentic AI Integration
-
----
-
-#### 🎯 Current Engagements
-
-<div align="left">
-
-```diff
-+ 🏢 ASTM International
-  └─ Senior AWS Solution Architect
-  └─ Sep 2025 - Present
-
-+ 🤖 Turing (AI Training)
-  └─ LLM Trainer - DevOps & Amazon IAC RLHF
-  └─ Jul 2025 - Present
-
-+ 💼 Topmate.io
-  └─ Cloud Coach & Consultant
-  └─ Nov 2024 - Present
-
-+ 🚀 Independent Consulting
-  └─ AWS Architecture & Cost Optimization
-  └─ Mar 2025 - Present
-```
+**3x AWS Professional** · Developer Associate · HashiCorp Terraform Associate · 4x AWS Community Builder (Serverless)
 
 </div>
 
 ---
-
-#### 🎓 Education
-
-**📚 Currently Pursuing**
-> **PG Certificate in Agentic AI, GenAI & ML**  
-> 🏛️ IIT Roorkee | 📅 May 2025 - Feb 2026
-
-**🎯 Completed**
-- **M.Sc. IT** - VNSGU (2018-2020)
-- **B.Sc. IT** - VNSGU (2016-2018)
-
----
-
-#### 🌟 Quick Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Experience-8+_Years-0066cc?style=flat-square&logo=calendar&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_Certifications-3-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Engineers_Mentored-200+-28a745?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Projects-66+_Live-blueviolet?style=flat-square&logo=git&logoColor=white"/>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Impact Dashboard
-
-#### 💰 Cost Savings
-- **Total Saved:** ₹50+ Crores across 100+ clients
-- **Average Reduction:** 60% (Range: 30-70%)
-
-#### ⚡ Performance Delivered
-- **Throughput:** 5M orders/month
-- **Latency:** <200ms average response time
-- **Uptime:** 99.99% SLA achieved
-
-#### 🔐 Security Excellence
-- **Incidents:** Zero post-implementation
-- **Compliance:** SOC2, ISO 27001
-- **Security Score:** 95%+
-
-#### 👥 Community Impact
-- **Engineers Trained:** 200+
-- **Article Views:** 100K+
-- **Live Projects:** 66 production-ready
-
----
-
-#### ⚡ Core Strengths
-
-<p align="center">
-  <img src="https://img.shields.io/badge/💰_Cost_Optimization-Expert-28a745?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🚀_High_Performance-Proven-0066cc?style=flat-square"/>
-  <br/>
-  <img src="https://img.shields.io/badge/🔐_Zero_Trust_Security-Certified-dc3545?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🤖_AI_Integration-Advanced-blueviolet?style=flat-square"/>
-</p>
-
----
-
-#### 🚀 Availability
-
-<div align="center">
-
-| Type | Status |
-|:----:|:------:|
-| 💼 Full-time | ✅ **Open** |
-| 📋 Contract | ✅ **Open** |
-| 💡 Consulting | ✅ **Available** |
-| 👨‍🏫 Mentorship | ✅ **Available** |
-| 🎤 Speaking | ✅ **Available** |
-
-</div>
-
-</td>
-</tr>
-</table>
-</div>
-
-## 💡 What I Do Best
-
-<div align="center">
-
-### 🎯 **I Transform Cloud Infrastructure Into Business Value**
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/null/cost.png" width="80"/><br/>
-<b>💰 Cost Optimizer</b><br/>
-<sub>60% average reduction<br/>through serverless</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/null/security-shield-green.png" width="80"/><br/>
-<b>🔒 Security First</b><br/>
-<sub>Zero-breach record<br/>with IAM & KMS</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/null/rocket.png" width="80"/><br/>
-<b>🚀 Performance</b><br/>
-<sub>5M orders/mo<br/>&lt;200ms response</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/null/artificial-intelligence.png" width="80"/><br/>
-<b>🤖 AI-Powered</b><br/>
-<sub>Agentic workflows<br/>for auto-triage</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-### 📊 Real-World Impact Metrics
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Cost_Savings-₹50Cr+-28a745?style=for-the-badge&logo=cashapp&logoColor=white"/><br/>
-<sub>across 100+ clients</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Uptime-99.99%25-blue?style=for-the-badge&logo=statuspage&logoColor=white"/><br/>
-<sub>production systems</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Performance-5M_orders/mo-purple?style=for-the-badge&logo=lightning&logoColor=white"/><br/>
-<sub>&lt;200ms response time</sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Security-Zero_Incidents-red?style=for-the-badge&logo=security&logoColor=white"/><br/>
-<sub>post-implementation</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Mentorship-200+_Engineers-orange?style=for-the-badge&logo=graduation-cap&logoColor=white"/><br/>
-<sub>trained & certified</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Content-100K+_Views-success?style=for-the-badge&logo=medium&logoColor=white"/><br/>
-<sub>technical articles</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-## 🏆 Recognition & Achievements
-
-<div align="center">
-
-| 🌟 Highlight | 📊 Metric | 📅 Timeline |
-|:----------------|:-----------|:-----------|
-| 🔶 **AWS Community Builder** | Serverless Category | 4 Years (2022-Present) |
-| 🎯 **AWS Certifications** | 3 Active Certifications | Solutions Architect + Developer |
-| ✍️ **Technical Content** | 100K+ Article Views | Dev.to & Medium |
-| 🎯 **Mentorship Impact** | 200+ Engineers Trained | Career Growth 40-60% |
-| 🏆 **Cost Optimization** | ₹50Cr+ Saved | 100+ Client Projects |
-
-</div>
-
-### 🎖️ AWS Certifications
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="140"/><br/>
-<b>Solutions Architect</b><br/>
-<sub>Associate Level • 2023</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="140"/><br/>
-<b>Developer</b><br/>
-<sub>Associate Level • 2023</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="140"/><br/>
-<b>Cloud Practitioner</b><br/>
-<sub>Foundational Level • 2024</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/07/23/AWS-CBs-blog-image.png" width="140"/><br/>
-<b>Community Builder</b><br/>
-<sub>4x (2022-Present)</sub>
-</td>
-</tr>
-</table>
-
-</div>
 
 ## 💻 Tech Arsenal & Expertise
 
 <div align="center">
 
-### ☁️ **Cloud & DevOps Mastery**
+### ☁️ Cloud, GenAI & DevOps
 
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br/>AWS
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" /><br/>Terraform
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br/>Docker
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" /><br/>Kubernetes
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" /><br/>Jenkins
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br/>GitHub
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" /><br/>GitLab
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" /><br/>Prometheus
-</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/><br/>AWS</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform"/><br/>Terraform</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br/>Docker</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes"/><br/>K8s</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions"/><br/>Actions</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus"/><br/>Prometheus</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana"/><br/>Grafana</td>
+<td align="center" width="96"><img src="https://img.shields.io/badge/-Bedrock-FF9900?logo=amazonaws&logoColor=white" alt="Bedrock"/><br/>Bedrock</td>
 </tr>
 </table>
 
-### 🔧 **Languages & Frameworks**
+### 🤖 GenAI & Data
 
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br/>Node.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" /><br/>Go
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br/>Python
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" /><br/>TypeScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" /><br/>JavaScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br/>React
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" /><br/>Vue
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br/>Next.js
-</td>
+<td align="center" width="110"><img src="https://img.shields.io/badge/-SageMaker-FF9900?logo=amazonaws&logoColor=white" alt="SageMaker"/><br/>SageMaker</td>
+<td align="center" width="110"><img src="https://img.shields.io/badge/-RAG-412991?logo=openai&logoColor=white" alt="RAG"/><br/>RAG</td>
+<td align="center" width="110"><img src="https://img.shields.io/badge/-Pinecone-000000?logo=pinecone&logoColor=white" alt="Pinecone"/><br/>Pinecone</td>
+<td align="center" width="110"><img src="https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white" alt="LangChain"/><br/>LangChain</td>
+<td align="center" width="110"><img src="https://img.shields.io/badge/-OpenSearch-005EB8?logo=opensearch&logoColor=white" alt="OpenSearch"/><br/>OpenSearch</td>
+<td align="center" width="110"><img src="https://img.shields.io/badge/-LiveKit-00B8D9?logo=livekit&logoColor=white" alt="LiveKit"/><br/>LiveKit</td>
+<td align="center" width="110"><img src="https://img.shields.io/badge/-n8n-EA4B71?logo=n8n&logoColor=white" alt="n8n"/><br/>n8n</td>
 </tr>
 </table>
 
-### 🗄️ **Databases & Storage**
+### 🔧 Languages & Runtime
 
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=dynamodb" width="48" height="48" alt="DynamoDB" /><br/>DynamoDB
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br/>MongoDB
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br/>MySQL
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br/>PostgreSQL
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="Elasticsearch" /><br/>Elasticsearch
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /><br/>Redis
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" /><br/>GraphQL
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" /><br/>Nginx
-</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/><br/>Python</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br/>Node.js</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript"/><br/>TypeScript</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go"/><br/>Go</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL"/><br/>GraphQL</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift"/><br/>Swift</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/><br/>Next.js</td>
+<td align="center" width="96"><img src="https://img.shields.io/badge/-DynamoDB-4053D6?logo=amazondynamodb&logoColor=white" alt="DynamoDB"/><br/>DynamoDB</td>
 </tr>
 </table>
 
-### 📈 **Expertise Level**
+### 📈 Expertise Level
 
 ```text
 ┌─────────────────────────────────────────┬──────────────────────────────┐
 │ AWS Cloud Architecture                  │ ████████████████████ 98% │
 │ Cost Optimization & FinOps              │ ████████████████████ 98% │
-│ Serverless (Lambda, Fargate)            │ ███████████████████  95% │
-│ DevOps & CI/CD                          │ ███████████████████  95% │
-│ Kubernetes & Container Orchestration    │ ██████████████████   90% │
+│ Serverless (Lambda, Fargate)            │ ███████████████████  96% │
+│ GenAI Infra (Bedrock, RAG, Agents)      │ ██████████████████   92% │
+│ IaC (Terraform, CDK, Pulumi, CFN)       │ ███████████████████  95% │
+│ Platform & Reliability / Observability  │ ██████████████████   93% │
 │ Security & Compliance (IAM, KMS)        │ ██████████████████   92% │
-│ Infrastructure as Code (Terraform, CDK) │ ███████████████████  94% │
-│ Agentic AI & LLM Integration            │ ████████████████     88% │
+│ Kubernetes & Containers (EKS, Fargate)  │ ██████████████████   90% │
 └─────────────────────────────────────────┴──────────────────────────────┘
 ```
 
 </div>
 
-## 🚀 Featured Projects
+---
 
-<div align="center">
+## 🚀 Selected Projects
 
-### 📊 Portfolio Overview
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Total_Projects-66-blue?style=for-the-badge&logo=github&logoColor=white"/><br/>
-<sub>Production-ready IaC</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/IaC_Technologies-6-orange?style=for-the-badge&logo=terraform&logoColor=white"/><br/>
-<sub>CF, Terraform, Pulumi, CDKTF, CDK</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Code_Lines-40K+-green?style=for-the-badge&logo=files&logoColor=white"/><br/>
-<sub>Infrastructure code</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/AWS_Services-50+-yellow?style=for-the-badge&logo=amazon-aws&logoColor=white"/><br/>
-<sub>Services deployed</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-### 🤖 AI/ML Infrastructure
+Real systems under real load. Client work is described, not linked.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[Edge AI Inference Platform](https://github.com/rahulladumor/edge-ai-inference-platform)**  
-🚀 Sub-10ms latency inference at 5G edge with AWS Wavelength
+**🍗 KFC Thailand — Omnichannel Ordering**
+Event-driven microservices on EKS + Kafka. **5M+ orders/month, sub-200ms, 99.99% uptime** at peak. Blue-green deploys, 20+ releases/week. `Node.js · Go · Kubernetes · Terraform`
 
-**[MLOps Full Lifecycle Platform](https://github.com/rahulladumor/mlops-full-lifecycle-platform)**  
-🛠️ Complete ML pipeline with feature store, model registry, A/B testing
+**🧪 Turing — IaC Automation Platform**
+12-repo ecosystem validating **1,745 infrastructure tasks @ 96.3%** across 5 IaC frameworks. CI/CD auto-fixer agent, universal repo-validator, 8-phase curator pipeline. `Terraform · CDK · CDKTF · Pulumi · CFN`
 
-**[Quantum Computing Hybrid Infrastructure](https://github.com/rahulladumor/quantum-computing-hybrid-infrastructure)**  
-⚛️ AWS Braket quantum-classical workflows
-
-</td>
-<td width="50%">
-
-**[Distributed Deep Learning Cluster](https://github.com/rahulladumor/distributed-deep-learning-cluster)**  
-🖥️ Petaflop-scale GPU cluster with EFA
-
-**[ML Model Serving Infrastructure](https://github.com/rahulladumor/ml-model-serving-infrastructure)**  
-🎯 SageMaker auto-scaling endpoints
-
-**[Computer Vision Pipeline Infrastructure](https://github.com/rahulladumor/computer-vision-pipeline-infrastructure)**  
-👁️ Real-time CV processing pipeline
+**🔎 Bedrock RAG Pipeline**
+Production RAG on Amazon Bedrock — chunking strategy, embedding selection, reranking, RAGAS eval loop. Lifted answer relevance for a B2B SaaS client. `Bedrock · OpenSearch · RAGAS · LangSmith`
 
 </td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
-### 🌐 Advanced Networking & Edge
+**🍽️ Qraved Indonesia — Discovery & Loyalty**
+PHP monolith → serverless GraphQL on Lambda + DynamoDB. **3x search throughput, 30% lower infra cost, +18% CTR, +22% DAU** via Amazon Personalize.
 
-<table>
-<tr>
-<td width="50%">
+**🧠 ProdigyBuild — ML Platform**
+SageMaker Pipelines, MLflow, DVC on EKS + Terraform. Real-time inference with auto-scaling, automated retraining, rollback + validation gates.
 
-**[Global Edge CDN Platform](https://github.com/rahulladumor/global-edge-cdn-platform)**  
-🌍 CloudFront with 400+ edge locations
-
-**[Private 5G Network Infrastructure](https://github.com/rahulladumor/private-5g-network-infrastructure)**  
-📶 AWS Private 5G with network slicing
-
-**[SD-WAN Hybrid Connectivity](https://github.com/rahulladumor/sd-wan-hybrid-connectivity)**  
-🔗 Multi-cloud software-defined networking
-
-</td>
-<td width="50%">
-
-**[Network Function Virtualization](https://github.com/rahulladumor/network-function-virtualization)**  
-⚙️ NFV with service chaining
-
-**[Cloud Network Hub-Spoke](https://github.com/rahulladumor/cloud-network-hub-spoke)**  
-🏛️ Transit Gateway architecture
-
-**[IPv6 Migration Dual-Stack](https://github.com/rahulladumor/ipv6-migration-dual-stack)**  
-🔄 IPv4/IPv6 dual-stack migration
-
-</td>
-</tr>
-</table>
-
-### 🔐 Security & Zero-Trust
-
-<table>
-<tr>
-<td width="50%">
-
-**[Zero-Trust Network Architecture](https://github.com/rahulladumor/zero-trust-network-architecture)**  
-🛡️ Complete zero-trust implementation
-
-**[Security Information Event Management](https://github.com/rahulladumor/security-information-event-management)**  
-📡 Full SIEM platform
-
-**[DevSecOps Pipeline Security](https://github.com/rahulladumor/devsecops-pipeline-security)**  
-🔒 SAST/DAST/SCA integration
-
-</td>
-<td width="50%">
-
-**[Hardware Security Module Infrastructure](https://github.com/rahulladumor/hardware-security-module-infrastructure)**  
-🔑 CloudHSM FIPS 140-2
-
-**[Zero-Trust Container Security](https://github.com/rahulladumor/zero-trust-container-security)**  
-📦 Falco + Trivy + OPA
-
-**[Threat Detection Response Platform](https://github.com/rahulladumor/threat-detection-response-platform)**  
-⚠️ Automated threat response
-
-</td>
-</tr>
-</table>
-
-### 📊 Observability & Chaos Engineering
-
-<table>
-<tr>
-<td width="50%">
-
-**[Observability Platform OpenTelemetry](https://github.com/rahulladumor/observability-platform-opentelemetry)**  
-🔍 Distributed tracing for 100+ services
-
-**[Chaos Engineering Platform](https://github.com/rahulladumor/chaos-engineering-platform)**  
-🌀 Automated failure injection
-
-**[Log Analytics Petabyte Scale](https://github.com/rahulladumor/log-analytics-petabyte-scale)**  
-📊 Petabyte-scale analytics
-
-</td>
-<td width="50%">
-
-**[AWS Observability Platform](https://github.com/rahulladumor/aws-observability-platform)**  
-👁️ Prometheus + Grafana + Loki
-
-**[Service Mesh Observability](https://github.com/rahulladumor/service-mesh-observability)**  
-🕸️ Istio telemetry
-
-**[Synthetic Monitoring Global](https://github.com/rahulladumor/synthetic-monitoring-global)**  
-🌎 Global uptime monitoring
-
-</td>
-</tr>
-</table>
-
-### 🗄️ Data & Analytics Platforms
-
-<table>
-<tr>
-<td width="50%">
-
-**[Real-time Data Mesh Architecture](https://github.com/rahulladumor/realtime-data-mesh-architecture)**  
-🕸️ Domain-oriented data mesh
-
-**[Modern Data Lakehouse Platform](https://github.com/rahulladumor/modern-data-lakehouse-platform)**  
-🏞️ Airflow + Spark + Delta Lake
-
-**[Change Data Capture Streaming](https://github.com/rahulladumor/change-data-capture-streaming)**  
-📡 DMS + Kafka + Kinesis CDC
-
-</td>
-<td width="50%">
-
-**[Graph Database Knowledge Graph](https://github.com/rahulladumor/graph-database-knowledge-graph)**  
-🕸️ Neptune knowledge graphs
-
-**[Timeseries IoT Analytics](https://github.com/rahulladumor/timeseries-iot-analytics)**  
-⏱️ Timestream for IoT
-
-**[Data Quality Monitoring Platform](https://github.com/rahulladumor/data-quality-monitoring-platform)**  
-✅ Automated data quality checks
-
-</td>
-</tr>
-</table>
-
-### 🔧 Platform Engineering
-
-<table>
-<tr>
-<td width="50%">
-
-**[Internal Developer Platform](https://github.com/rahulladumor/internal-developer-platform)**  
-🏛️ Backstage + Crossplane IDP
-
-**[GitOps Infrastructure Automation](https://github.com/rahulladumor/gitops-infrastructure-automation)**  
-🔄 ArgoCD + Flux CD
-
-**[Hybrid Cloud Platform](https://github.com/rahulladumor/hybrid-cloud-platform)**  
-☁️ AWS + Azure multi-cloud
-
-</td>
-<td width="50%">
-
-**[Enterprise Multi-Account Governance](https://github.com/rahulladumor/enterprise-multi-account-governance)**  
-🏢 AWS Organizations at scale
-
-**[Kubernetes Cluster Autoscaling](https://github.com/rahulladumor/kubernetes-cluster-autoscaling)**  
-📈 Karpenter + Cluster Autoscaler
-
-**[Infrastructure Testing Framework](https://github.com/rahulladumor/infrastructure-testing-framework)**  
-🧪 Automated IaC testing
-
-</td>
-</tr>
-</table>
-
-### 🎯 API & Microservices
-
-<table>
-<tr>
-<td width="50%">
-
-**[API Gateway Microservices Mesh](https://github.com/rahulladumor/api-gateway-microservices-mesh)**  
-🌐 Service mesh with rate limiting
-
-**[Serverless GraphQL API Platform](https://github.com/rahulladumor/serverless-graphql-api-platform)**  
-⚡ AppSync + Lambda
-
-**[gRPC Microservices Infrastructure](https://github.com/rahulladumor/grpc-microservices-infrastructure)**  
-🗣️ Envoy + gRPC
-
-</td>
-<td width="50%">
-
-**[WebSocket Real-time API](https://github.com/rahulladumor/websocket-realtime-api)**  
-🔌 WebSocket API Gateway
-
-**[REST API Versioning Platform](https://github.com/rahulladumor/rest-api-versioning-platform)**  
-📌 Blue/Green deployments
-
-**[Real-time Event Processing Pipeline](https://github.com/rahulladumor/realtime-event-processing-pipeline)**  
-⚡ Event-driven architecture
+**🛡️ ProtectOnce — Security Platform**
+Developer-first API security, single-line integration. Real-time detection on Lambda, API Gateway, WAF. eBPF kernel-level monitoring across Linux.
 
 </td>
 </tr>
@@ -685,552 +264,89 @@
 
 <div align="center">
 
-**📚 [View All 66 Projects →](https://github.com/Rahulladumor?tab=repositories)**
+**Open-source infrastructure → [InfraTales org (27+ projects)](https://github.com/orgs/InfraTales/repositories)**
 
 </div>
 
 ---
 
-## 🎯 Current Focus (2025)
+## 🧰 Products & Builds
 
-```mermaid
-mindmap
-  root((Rahul 2025))
-    Agentic AI
-      PG Certificate IIT Roorkee
-      Bedrock + LangChain
-      Auto-incident triage
-      LLM Training @ Turing
-    Cloud Architecture
-      ASTM International
-      Serverless optimization
-      Multi-region deployments
-      Cost reduction strategies
-    Community Impact
-      4x AWS Community Builder
-      Technical writing
-      200+ engineers mentored
-      Open source contributions
-    Security & Compliance
-      DevSecOps pipelines
-      IAM least-privilege
-      SOC2/ISO compliance
-      Zero-trust architecture
-```
-
-## 📊 Project Portfolio Breakdown
-
-<div align="center">
-
-### Infrastructure as Code Technologies
+When I am not on a client system, I build my own. Honest state of each.
 
 <table>
 <tr>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/CloudFormation-4_projects-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/><br/>
-<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="48"/><br/>
-<sub><b>CloudFormation</b></sub>
+<td width="33%" valign="top">
+
+### 🔍 IdleLens
+`BUILDING · v0.6.0`
+AWS cloud-waste scanner SaaS — the product version of the FinOps work I do by hand. 17 scanners, 76 tests, multi-account UI, sign-in flow. Next: Slack integration, auto-scan scheduler, weekly digest.
+`Next.js · React 19 · TS · Fargate`
+
 </td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/Terraform-20_projects-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/><br/>
-<img src="https://img.icons8.com/color/48/000000/terraform.png" width="48"/><br/>
-<sub><b>Terraform</b></sub>
+<td width="33%" valign="top">
+
+### 📰 InfraTales.com
+`LAUNCHED · 7 Apr 2026`
+AWS & AI infrastructure content platform. Ghost v6 on Lightsail, 17 pages, validator pipeline tying repo + diagram + draft. 8 posts live, cross-posted to dev.to & Hashnode. Paid tier $5/mo or $50/yr.
+
 </td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/Pulumi-10_projects-8A3391?style=for-the-badge&logo=pulumi&logoColor=white"/><br/>
-<img src="https://www.pulumi.com/images/logo/logo-on-white.svg" width="48"/><br/>
-<sub><b>Pulumi</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/CDKTF-2_projects-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/><br/>
-<img src="https://img.icons8.com/color/48/000000/terraform.png" width="48"/><br/>
-<sub><b>CDKTF</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/AWS_CDK-30_projects-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/><br/>
-<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="48"/><br/>
-<sub><b>AWS CDK</b></sub>
+<td width="33%" valign="top">
+
+### 🧠 AI Second-Brain
+`BUILDING`
+Personal knowledge dashboard. Extraction layer done (37/37 tests), UI ~75%. Single-priority model (overdue / decide / today / backlog) with cross-meeting dedupe.
+`Next.js · React · TS`
+
 </td>
 </tr>
 </table>
-
-### 📊 Portfolio Metrics
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Projects-66-blue?style=for-the-badge&logo=github"/><br/>
-<sub><b>Production Ready</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/IaC_Tech-6-orange?style=for-the-badge&logo=terraform"/><br/>
-<sub><b>CF, TF, Pulumi, CDK</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Languages-7-green?style=for-the-badge&logo=code"/><br/>
-<sub><b>YAML, HCL, TS, Py, Go</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Code-40K+_Lines-purple?style=for-the-badge&logo=files"/><br/>
-<sub><b>Infrastructure as Code</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Docs-400KB+-red?style=for-the-badge&logo=markdown"/><br/>
-<sub><b>Technical Documentation</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Diagrams-200+-blueviolet?style=for-the-badge&logo=mermaid"/><br/>
-<sub><b>Architecture Designs</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/AWS-50+_Services-FF9900?style=for-the-badge&logo=amazon-aws"/><br/>
-<sub><b>Services Deployed</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Regions-3_Continents-success?style=for-the-badge&logo=aws"/><br/>
-<sub><b>Global Deployment</b></sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 GitHub Analytics & Activity
-
-<div align="center">
-
-### 🔥 Contribution Streak
-
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=rahulladumor&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&ring=667eea&fire=764ba2&currStreakLabel=764ba2)](https://git.io/streak-stats)
-
-### 📈 GitHub Statistics
-
-<a href="https://app.daily.dev/rahulladumor">
-  <img src="https://api.daily.dev/devcards/8f09575812fb48abb742ad02bf4425af.png?r=4ho" width="400" alt="Rahul Ladumor's Dev Card"/>
-</a>
-
-### 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=rahulladumor&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=8&rank=-C,-?" width="100%"/>
-
-### 📊 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulladumor&custom_title=Rahul's%20Contribution%20Graph&bg_color=1a1b27&color=667eea&line=764ba2&point=a9b1d6&area_color=667eea&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-## 🎯 Success Stories - Real Impact, Real Results
-
-> **Click to expand** and see how I've transformed cloud infrastructure for actual businesses
 
 <details>
-<summary><b>🛒 E-commerce Platform - 52% Cost Reduction (₹4.2L/month saved)</b></summary>
+<summary><b>Also built this year (parked / archived)</b></summary>
 
 <br/>
 
-**Challenge:** Rapidly growing AWS costs eating into profit margins
+- **Second Brain** `PARKED` — entity knowledge graph, graph-aware RAG (2-hop), temporal awareness, hybrid 70/30 search. `Python · SQLite + sqlite-vec + FTS5 · FastAPI`
+- **Meeting Recorder** `PARKED` — macOS menu-bar capture (dual audio, live transcription) + Python processor (MLX Whisper, pyannote, 3-pass summarization).
+- **Gmail Smart Organizer** `BUILT` — AI email classification; n8n workflow + Python bulk backfill for 50K+ emails across 8 categories.
+- **LinkedIn Lab** `PARKED` — content/automation platform. `Node.js · TS · Prisma · BullMQ` (~327 tests).
+- **Fluent** `PARKED` — macOS interview/meeting assistant with overlay UI. `Swift`
+- **finance-app-ps** `ARCHIVED` — personal finance dashboard, 27 bank parsers, money in paise. `FastAPI · SQLAlchemy · React`
 
-**Solution:**
-- Right-sized EC2 instances and migrated to Spot for non-critical workloads
-- Implemented auto-scaling and optimized RDS configurations
-- Set up CloudWatch monitoring with cost alerts
-
-**Results:**
-- 💰 Monthly spend: ₹8.1L → ₹3.9L (52% reduction)
-- ⚡ Response time improved by 35%
-- 🎯 99.9% uptime achieved
-- 📊 Auto-scaling for traffic spikes
-
-**Technologies:** EC2, RDS, CloudWatch, Auto Scaling, Load Balancer
+> I kill projects on purpose too. Shipping is a decision — so is stopping.
 
 </details>
 
-<details>
-<summary><b>🏦 FinTech Security - 100% SOC2 Compliance (Zero Security Incidents)</b></summary>
+---
 
-<br/>
+## 🧭 Work History
 
-**Challenge:** Meeting regulatory compliance while maintaining performance
-
-**Solution:**
-- Designed comprehensive security architecture with VPC isolation
-- Configured WAF, encryption at rest/transit, optimized IAM roles
-- Set up centralized logging and real-time threat detection
-
-**Results:**
-- 🔒 Security score: 62% → 95%
-- ✅ 100% SOC2 compliance achieved
-- 🛡️ Zero security incidents post-implementation
-- 💰 31% cost optimization through efficient resource allocation
-
-**Technologies:** VPC, WAF, IAM, CloudTrail, GuardDuty, KMS
-
-</details>
-
-<details>
-<summary><b>🚀 Serverless Migration - 67% Cost Savings (₹2.1L/month saved)</b></summary>
-
-<br/>
-
-**Challenge:** Scaling efficiently with limited engineering resources
-
-**Solution:**
-- Migrated monolithic app to serverless (Lambda, API Gateway, DynamoDB)
-- Implemented CI/CD pipeline with automated testing
-- Set up complete observability with monitoring and logging
-
-**Results:**
-- 💰 Monthly spend: ₹3.2L → ₹1.1L (67% reduction)
-- 📈 10x scaling capacity achieved
-- ⚡ Deployment speed improved by 90%
-- 🔧 Maintenance overhead reduced by 80%
-
-**Technologies:** Lambda, API Gateway, DynamoDB, CloudFormation, CodePipeline
-
-</details>
-
-## 💼 Professional Experience
-
-<table>
-<tr>
-<td width="30%"><b>ASTM International</b><br/><i>Senior AWS Solution Architect</i></td>
-<td width="70%">
-Leading AWS solution architecture for international standards organization
-<br/><code>Sep 2025 - Present</code>
-</td>
-</tr>
-<tr>
-<td><b>Turing</b><br/><i>LLM Trainer - DevOps</i></td>
-<td>
-Design & implement AWS CDK solutions. Train AI models for Amazon IAC RLHF Project
-<br/><code>Jul 2025 - Present</code>
-</td>
-</tr>
-<tr>
-<td><b>Freelance</b><br/><i>Cloud Consultant</i></td>
-<td>
-Delivered $100K+ annual savings through serverless optimization. 99.99% uptime across clients
-<br/><code>Mar 2025 - Present</code>
-</td>
-</tr>
-<tr>
-<td><b>ProdigyBuild</b><br/><i>Lead Engineer</i></td>
-<td>
-Designed AWS serverless platform with AI integration. 99.99% uptime & 40% cost savings
-<br/><code>Jul 2023 - Mar 2025</code>
-</td>
-</tr>
-<tr>
-<td><b>ProtectOnce</b><br/><i>SDE-II</i></td>
-<td>
-Developed serverless security solution protecting 100K+ users. <1% false-positive rate
-<br/><code>May 2022 - Aug 2024</code>
-</td>
-</tr>
-</table>
-
-[View Full Experience →](https://www.linkedin.com/in/rahulladumor/)
-
-## 📝 Latest Blog Posts & Content
+| Period | Role · Company | Highlights |
+|:-------|:---------------|:-----------|
+| **Mar 2023 – Present** | Independent Cloud & AI Consultant · *Freelance* | Serverless cutting client cost 30–40%; ₹50L+ waste removed; Bedrock RAG for fintech & e-commerce |
+| **Nov 2024 – Present** | Cloud & AI Career Coach · *Topmate.io* | 1:1 mentoring — AWS architecture, GenAI, Terraform |
+| **Sep 2025 – Present** | Senior AWS Solutions Architect · *ASTM Intl* (via Euphoric Thought) | Valkey 7.2 migration, EKS, secure multi-account, cost-neutral fixes |
+| **Jul 2025 – Feb 2026** | AI Infra Platform Engineer · *Turing* | Amazon IAC RLHF — 12-repo IaC, 1,745 tasks @ 96.3%, 5 frameworks |
+| **2025 – Apr 2026** | AI Platform / Backend Lead · *MAIA* (Munn & Affiliates / Tektonik, Canada) | AI procurement marketplace — RAG on Pinecone, n8n, LiveKit voice agent |
+| **Jan 2025 – Mar 2025** | Senior Software Engineer · *NTT* (Tokyo) | Short AWS platform contract across JST |
+| **Jul 2023 – Mar 2025** | Lead Platform Engineer · *ProdigyBuild* (via Virgo, SF Bay) | Serverless platform + ML pipeline; 99.9% uptime, 40% cost cut |
+| **May 2022 – Aug 2024** | SDE-II · *ProtectOnce* (via Codewits, SF Bay) | Dev-first security; eBPF kernel-level monitoring |
+| **Feb 2022 – Dec 2023** | Senior Software Engineer · *Imaginato* (via DIV Tech, China) | KFC Thailand 5M+ orders/mo; Qraved monolith → serverless |
+| **Apr 2022 – Jun 2022** | Blockchain Developer · *PrimeLab* (US) | Go microservices for wallet/transaction mgmt |
+| **Aug 2021 – May 2022** | Senior Software Developer · *NDS Global* (India) | Conversational AI on AWS Lex + Azure Bot |
+| **Jan 2020 – Jul 2021** | Cloud Developer · *AppGambit* (Surat) | 1M+ req/min on ECS/EKS/Fargate; MTTR cut 20% |
+| **Apr 2016 – Jul 2019** | Bynebits → Creative Infotech (Indore/Surat) | First roles — Node.js + Lambda, PHP e-commerce |
 
 <div align="center">
 
-### ✍️ **Featured Technical Articles**
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🔥 Most Popular
-
-<a href="https://dev.to/rahulladumor/working-with-amazon-opensearch-service-direct-queries-with-amazon-s3-the-first-ever-detailed-guide-4m2a">
-  <img src="https://img.shields.io/badge/OpenSearch_Direct_Queries-25K+_views-brightgreen?style=for-the-badge&logo=dev.to"/>
-</a>
-
-<a href="https://dev.to/rahulladumor/serverless-horror-stories-real-world-nightmares-and-how-to-avoid-them-5eoi">
-  <img src="https://img.shields.io/badge/Serverless_Cost_Nightmares-12K+_views-orange?style=for-the-badge&logo=dev.to"/>
-</a>
-
-<a href="https://dev.to/rahulladumor/mastering-aws-lambda-performance-advanced-optimization-strategies-for-2025-3bfe">
-  <img src="https://img.shields.io/badge/Lambda_Performance-8K+_views-blue?style=for-the-badge&logo=dev.to"/>
-</a>
-
-</td>
-<td width="50%">
-
-#### 🆕 Recent Posts
-
-<a href="https://dev.to/rahulladumor/aws-in-2025-latest-updates-and-best-practices-for-developers-56ah">
-  <img src="https://img.shields.io/badge/AWS_in_2025-5K+_views-purple?style=for-the-badge&logo=dev.to"/>
-</a>
-
-<a href="https://dev.to/rahulladumor/understanding-passkeys-the-behind-the-scenes-magic-of-passwordless-authentication-7i">
-  <img src="https://img.shields.io/badge/Passkeys_Deep_Dive-6K+_views-red?style=for-the-badge&logo=dev.to"/>
-</a>
-
-<a href="https://dev.to/rahulladumor">
-  <img src="https://img.shields.io/badge/View_All_Articles-Dev.to-black?style=for-the-badge&logo=dev.to"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- Automated blog post updates will appear here -->
-<!-- BLOG-POST-LIST:END -->
-
-<div align="center">
-
-### 📊 **Content Impact**
-
-<img src="https://img.shields.io/badge/Total_Views-100K+-success?style=for-the-badge&logo=google-analytics&logoColor=white"/>
-<img src="https://img.shields.io/badge/Articles_Published-50+-blue?style=for-the-badge&logo=medium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Platform-Dev.to_+_Medium-orange?style=for-the-badge&logo=hashnode&logoColor=white"/>
-
-</div>
-
-## 🎤 Speaking & Community
-
-### Conference Talks
-- **AWS User Group Surat** - "Serverless Cost Optimization Strategies" (150+ attendees)
-- **DevOps India Conference** - "Building Resilient Cloud Infrastructure" (300+ attendees)
-- **Cloud Computing Summit** - "Microservices to Serverless Migration" (200+ attendees)
-
-### Community Involvement
-- 🌟 **4x AWS Community Builder** (Serverless) - 2022 to Present
-- 👨‍🏫 **Technical Mentor** at Topmate.io - 200+ engineers mentored
-- 💻 **Open Source Contributor** - AWS tools & documentation
-
-## 💬 Ask Me About
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ **Cloud Architecture**
-
-```diff
-+ AWS Lambda & Serverless patterns
-+ Cost optimization (30-70% savings)
-+ Multi-region & HA setups
-+ Zero-downtime migrations
-```
-
-### 🔐 **DevSecOps**
-
-```diff
-+ IAM least-privilege automation
-+ CI/CD optimization (70% faster)
-+ IaC: Terraform, CDK, CloudFormation
-+ SOC2 & ISO 27001 compliance
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 **Agentic AI**
-
-```diff
-+ AWS Bedrock + LangChain workflows
-+ LLM training for DevOps automation
-+ Auto-incident triage systems
-+ Chatbot dev (Lex, Azure Bot Service)
-```
-
-### 🎓 **Mentorship**
-
-```diff
-+ AWS certification roadmaps
-+ Career growth (40-60% salary ↑)
-+ Technical interview prep
-+ Cloud engineering portfolios
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💼 **Availability Status**
-
-<div align="center">
-
-```yaml
-status: 🟢 OPEN FOR OPPORTUNITIES
-
-looking_for:
-  ✅ Full-time Roles:
-     - Senior Cloud Architect
-     - Solutions Architect
-     - Technical Lead
-     - Staff/Principal Engineer
-  
-  ✅ Contract Engagements:
-     - Cloud Migration Projects
-     - Cost Optimization Audits
-     - Security Assessments
-     - Architecture Reviews
-  
-  ✅ Consulting Services:
-     - AWS Cost Optimization
-     - Serverless Architecture
-     - DevSecOps Implementation
-     - AI/ML Integration
-  
-  ✅ Speaking & Mentorship:
-     - Conference Talks
-     - Technical Workshops
-     - 1-on-1 Coaching
-     - Team Training
-
-preferences:
-  remote: true
-  relocation: negotiable
-  timezone: flexible (GMT+5:30)
-```
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-### 📨 **Get In Touch**
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-<a href="https://www.rahulladumor.in" target="_blank">
-<img src="https://img.icons8.com/fluency/96/000000/domain.png" width="64"/><br/>
-<b>Portfolio Website</b><br/>
-<sub>www.rahulladumor.in</sub>
-</a>
-</td>
-<td align="center" width="50%">
-<a href="https://www.linkedin.com/in/rahulladumor/" target="_blank">
-<img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="64"/><br/>
-<b>LinkedIn</b><br/>
-<sub>@rahulladumor</sub>
-</a>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="mailto:contact@acloudwithrahul.in">
-<img src="https://img.icons8.com/fluency/96/000000/email.png" width="64"/><br/>
-<b>Email</b><br/>
-<sub>contact@acloudwithrahul.in</sub>
-</a>
-</td>
-<td align="center">
-<a href="https://topmate.io/rahulladumor" target="_blank">
-<img src="https://img.icons8.com/fluency/96/000000/calendar.png" width="64"/><br/>
-<b>Book Session</b><br/>
-<sub>topmate.io/rahulladumor</sub>
-</a>
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 🌐 **Social Links**
-
-<a href="https://twitter.com/Rahul__ladumor" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="https://dev.to/rahulladumor" target="_blank">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-</a>
-<a href="https://medium.com/@ladumorrahul" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-<a href="https://peerlist.io/rahulladumor" target="_blank">
-  <img src="https://img.shields.io/badge/Peerlist-00AA45?style=for-the-badge&logo=peerlist&logoColor=white"/>
-</a>
-<a href="https://github.com/Rahulladumor" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-</td>
-</tr>
-</table>
+[View full profile on LinkedIn →](https://www.linkedin.com/in/rahulladumor/)
 
 </div>
 
 ---
 
-<div align="center">
-  
-### 💭 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-### ⚡ Quick Facts About Me
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/money-bag.png" width="64"/><br/>
-<b>Cost Savings</b><br/>
-<sub>₹50Cr+ across clients</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/graduation-cap.png" width="64"/><br/>
-<b>Currently Learning</b><br/>
-<sub>Agentic AI @ IIT Roorkee</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/coffee.png" width="64"/><br/>
-<b>Powered By</b><br/>
-<sub>Coffee & Curiosity ☕</sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.icons8.com/fluency/96/000000/document.png" width="64"/><br/>
-<b>Technical Content</b><br/>
-<sub>50+ articles, 100K+ views</sub>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/fluency/96/000000/robot.png" width="64"/><br/>
-<b>Innovation Focus</b><br/>
-<sub>AI-powered incident triage</sub>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/fluency/96/000000/trophy.png" width="64"/><br/>
-<b>Recognition</b><br/>
-<sub>4x AWS Community Builder</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 🏗️ InfraTales — My Open Source Organization
+## 🏗️ InfraTales — My Open Source Organization
 
 <div align="center">
 
@@ -1238,27 +354,18 @@ preferences:
   <img src="https://infratales.com/content/images/2025/11/favicon_icon-2.png" width="120" alt="InfraTales"/>
 </a>
 
-### **[InfraTales](https://github.com/InfraTales)** — Production-Ready AWS Infrastructure
+### **[InfraTales](https://github.com/InfraTales)** — Production-Ready AWS Infrastructure & War Stories
 
 [![Website](https://img.shields.io/badge/Website-infratales.com-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://infratales.com)
 [![GitHub Org](https://img.shields.io/badge/GitHub-27+_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/InfraTales)
-[![Newsletter](https://img.shields.io/badge/Newsletter-Subscribe-764ba2?style=for-the-badge&logo=substack&logoColor=white)](https://infratales.com/newsletter)
-[![Premium](https://img.shields.io/badge/Premium-Content-FF9900?style=for-the-badge&logo=patreon&logoColor=white)](https://infratales.com/premium)
-
-<br/>
-
-<img src="https://img.shields.io/badge/🏗️_Projects-27+-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/📚_Documentation-100%25-green?style=flat-square"/>
-<img src="https://img.shields.io/badge/💰_Cost_Docs-In_₹-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/🔒_Security_First-Always-red?style=flat-square"/>
-<img src="https://img.shields.io/badge/🎯_Enterprise_Ready-Yes-purple?style=flat-square"/>
+[![Premium](https://img.shields.io/badge/Premium-$5/mo_·_$50/yr-FF9900?style=for-the-badge&logo=patreon&logoColor=white)](https://infratales.com)
 
 </div>
 
-> **I founded [InfraTales](https://github.com/InfraTales)** to democratize enterprise-grade AWS infrastructure. Every project is battle-tested, fully documented with cost analysis in ₹, and production-ready.
+> **I founded [InfraTales](https://github.com/InfraTales)** to democratize enterprise-grade AWS infrastructure and tell the real war stories — what broke, what it cost, what changed. Launched **7 Apr 2026** (Ghost v6 on Lightsail). Every project is battle-tested, documented with cost analysis in ₹, and production-ready.
 
 <details>
-<summary><b>🌟 Featured InfraTales Projects (Click to expand)</b></summary>
+<summary><b>🌟 Featured InfraTales Projects (click to expand)</b></summary>
 
 <br/>
 
@@ -1266,11 +373,7 @@ preferences:
 |:---------|:--------|:------------|:-----|
 | 🏢 **Core** | [enterprise-secure-webapp-3tier](https://github.com/InfraTales/enterprise-secure-webapp-3tier) | Production 3-Tier Architecture | CDK Go |
 | 🏢 **Core** | [resilient-webapp-3tier](https://github.com/InfraTales/resilient-webapp-3tier) | Fault-Tolerant 3-Tier | CDK Java |
-| 🏢 **Core** | [zero-downtime-bluegreen-terraform](https://github.com/InfraTales/infratales-zero-downtime-bluegreen-terraform) | Blue/Green Deployments | Terraform |
-| 📊 **Observability** | [observability-platform-opentelemetry](https://github.com/InfraTales/observability-platform-opentelemetry) | Full Tracing + Metrics | CDK |
-| 📊 **Observability** | [chaos-engineering-platform](https://github.com/InfraTales/chaos-engineering-platform) | Resilience Testing | Terraform |
 | 🔒 **Security** | [zero-trust-network-architecture](https://github.com/InfraTales/zero-trust-network-architecture) | BeyondCorp Implementation | CDK |
-| 🔒 **Security** | [devsecops-pipeline-security](https://github.com/InfraTales/devsecops-pipeline-security) | Shift-Left Security | CDK |
 | 💰 **Cost** | [aws-cost-optimization-50l-case-study](https://github.com/InfraTales/infratales-aws-cost-optimization-50l-case-study) | ₹50L/year Savings | Terraform |
 | 🤖 **ML** | [mlops-full-lifecycle-platform](https://github.com/InfraTales/mlops-full-lifecycle-platform) | End-to-End ML Platform | CDK |
 
@@ -1278,38 +381,82 @@ preferences:
 
 <div align="center">
 
-**[→ Explore All 27 InfraTales Projects](https://github.com/orgs/InfraTales/repositories)**
+**[→ Explore all InfraTales projects](https://github.com/orgs/InfraTales/repositories)**
 
-[![Sponsor InfraTales](https://img.shields.io/badge/💖_Sponsor_InfraTales-GitHub_Sponsors-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/rahulladumor)
+[![Sponsor](https://img.shields.io/badge/💖_Sponsor-GitHub_Sponsors-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/rahulladumor)
 
 </div>
 
 ---
 
-## 💬 Why Work With Me?
+## ✍️ Content & Community
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📰 Writing & Speaking
+- **InfraTales** — AWS/AI war stories in a senior-engineer, ownership voice. 8 posts live, cross-posted to dev.to & Hashnode.
+- **VNSGU AI Agents Workshop** (Apr 2026) — full slide deck, hands-on exercises, Python agents on the Claude API.
+- **~11K LinkedIn followers** — practical AWS, GenAI & FinOps.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔥 Popular Articles
+[![OpenSearch Direct Queries](https://img.shields.io/badge/OpenSearch_Direct_Queries-dev.to-brightgreen?style=for-the-badge&logo=dev.to)](https://dev.to/rahulladumor/working-with-amazon-opensearch-service-direct-queries-with-amazon-s3-the-first-ever-detailed-guide-4m2a)
+[![Serverless Cost Nightmares](https://img.shields.io/badge/Serverless_Cost_Nightmares-dev.to-orange?style=for-the-badge&logo=dev.to)](https://dev.to/rahulladumor/serverless-horror-stories-real-world-nightmares-and-how-to-avoid-them-5eoi)
+[![Lambda Performance](https://img.shields.io/badge/Lambda_Performance_2025-dev.to-blue?style=for-the-badge&logo=dev.to)](https://dev.to/rahulladumor/mastering-aws-lambda-performance-advanced-optimization-strategies-for-2025-3bfe)
+[![All Articles](https://img.shields.io/badge/All_Articles-dev.to-black?style=for-the-badge&logo=dev.to)](https://dev.to/rahulladumor)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-| 💡 Value Proposition | 🎯 Your Benefit |
-|:---------------------|:----------------|
-| **Proven Cost Optimizer** | I've saved ₹50Cr+ for clients - imagine what I can do for your cloud bill |
-| **Zero-Downtime Expert** | 99.99% uptime track record with production systems handling 5M+ requests |
-| **Security-First Mindset** | Zero security incidents post-implementation across all projects |
-| **Knowledge Multiplier** | I don't just build - I enable teams (200+ engineers trained successfully) |
-| **Business-Focused Engineer** | I speak both tech and business, translating complex solutions to ROI |
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=rahulladumor&theme=tokyonight&hide_border=true&border_radius=10&ring=667eea&fire=764ba2&currStreakLabel=764ba2)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-### 📞 Let's Connect!
+<img src="https://github-profile-trophy.vercel.app/?username=rahulladumor&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=8&rank=-C,-?" width="100%" alt="GitHub Trophies"/>
 
-**Looking for:** Senior/Staff/Principal Engineer Roles | Cloud Architecture Consulting | Technical Advisory
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulladumor&custom_title=Contribution%20Graph&bg_color=1a1b27&color=667eea&line=764ba2&point=a9b1d6&area_color=667eea&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
 
-<a href="mailto:contact@acloudwithrahul.in">
-  <img src="https://img.shields.io/badge/Email-contact@acloudwithrahul.in-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</div>
+
+---
+
+## 🤝 Work With Me
+
+<div align="center">
+
+I'm open to **consulting engagements and fractional architect roles** — GenAI infrastructure, platform & reliability, and FinOps.
+
+```yaml
+engagements:
+  - GenAI infrastructure: Bedrock / RAG / agents, guardrails, evals
+  - Platform & reliability: multi-region, observability, safe rollouts
+  - Cost (FinOps): audits, governance, token + spend ceilings
+  - Fractional architect: design reviews, technical advisory
+preferences:
+  remote: true
+  timezones: IST + US
+```
+
+<a href="mailto:rahuldladumor@gmail.com">
+  <img src="https://img.shields.io/badge/Email-rahuldladumor@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.rahulladumor.com">
+  <img src="https://img.shields.io/badge/Website-rahulladumor.com-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/rahulladumor/">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://topmate.io/rahulladumor">
-  <img src="https://img.shields.io/badge/Topmate-Book_1:1_Session-00D09C?style=for-the-badge&logo=calendly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Topmate-Book_1:1-00D09C?style=for-the-badge&logo=calendly&logoColor=white"/>
 </a>
 
 </div>
@@ -1318,14 +465,10 @@ preferences:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=35&fontColor=fff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Boring%20but%20reliable%20%3E%20clever%20but%20fragile&fontSize=24&fontColor=fff&animation=fadeIn" width="100%"/>
 
-### 🌟 If you found this profile helpful, consider:
-⭐ Starring my repositories • 🔔 Following for updates • 💬 Reaching out for collaboration
+⭐ Star a repo • 🔔 Follow for updates • 🤝 Reach out to collaborate
 
-<img src="https://img.shields.io/github/stars/Rahulladumor?style=social" alt="GitHub stars"/>
-<img src="https://img.shields.io/github/followers/Rahulladumor?style=social" alt="GitHub followers"/>
-
-**© 2025 Rahul Ladumor | Transforming Cloud Infrastructure Into Business Value**
+**© 2026 Rahul Ladumor · Principal Cloud & AI Platform Architect**
 
 </div>
