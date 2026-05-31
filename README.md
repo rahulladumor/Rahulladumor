@@ -1,25 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Rahul%20Ladumor&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Principal%20Cloud%20%26%20AI%20Platform%20Architect&descAlignY=60&descAlign=50" width="100%"/>
-</div>
-
-```bash
-rahul@oncall:~$ ./respond --incident P1          # 3:47 AM — the call I get hired for
-
-  03:47  🔴  Redis pinned at 100% CPU · 1,620 open connections · indexing pipeline degrading
-  03:51  🔎  root cause   →  KEYS * in Lambda · no connection pooling · hardcoded credentials
-  04:20  🔧  fix shipped  →  migrate to dedicated Valkey 7.2 · cost-neutral · rollback in hand
-  04:55  ✅  resolved     →  blast radius contained · credentials rotated · postmortem written
-
-rahul@oncall:~$ whoami
-  Principal Cloud & AI Platform Architect · 9+ yrs · Founder @ InfraTales
-  I build systems that survive real traffic, real failure, and real cloud bills —
-  the boring, reliable kind that does not page you at 3:47 AM.
-```
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=900&color=667EEA&center=true&vCenter=true&width=820&lines=Production+GenAI+on+AWS+%E2%80%94+Bedrock%2C+RAG%2C+Agents;3x+AWS+Professional+%C2%B7+4x+AWS+Community+Builder;%E2%82%B950L%2B%2Fyr+AWS+waste+removed+%C2%B7+1%2C745+IaC+%40+96.3%25;5M%2B+orders%2Fmonth+%40+%3C200ms+%C2%B7+99.99%25+uptime;I+make+3%3A47+AM+stop+happening.)](https://github.com/rahulladumor)
-
+  <img src="./assets/hero.svg" alt="Rahul Ladumor — Principal Cloud & AI Platform Architect · ₹50L+/yr saved · 5M orders/mo · 99.99% uptime · 3x AWS Professional" width="100%"/>
 </div>
 
 <div align="center">
