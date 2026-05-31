@@ -467,7 +467,11 @@ Personal knowledge dashboard. Extraction layer done (37/37 tests), UI ~75%. Sing
 
 <a href="https://app.daily.dev/rahulladumor"><img src="https://api.daily.dev/devcards/8f09575812fb48abb742ad02bf4425af.png?r=4ho" width="356" alt="Rahul Ladumor's Dev Card"/></a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulladumor&custom_title=Contribution%20Graph&bg_color=1a1b27&color=667eea&line=764ba2&point=a9b1d6&area_color=667eea&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulladumor/Rahulladumor/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahulladumor/Rahulladumor/output/github-snake.svg"/>
+  <img alt="Rahul Ladumor's GitHub contribution snake" src="https://raw.githubusercontent.com/rahulladumor/Rahulladumor/output/github-snake.svg" width="100%"/>
+</picture>
 
 </div>
 
