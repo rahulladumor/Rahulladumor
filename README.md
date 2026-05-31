@@ -59,7 +59,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/AWS-3x_Professional-FF9900?style=for-the-badge&logo=amazon-aws"/>
+<img src="https://img.shields.io/badge/AWS-3x_Professional-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
 <img src="https://img.shields.io/badge/Status-🟢_Open_to_Consulting_&_Fractional-success?style=for-the-badge"/>
 
 <br/>
@@ -75,6 +75,17 @@
 ## 🎯 About Me
 
 > **AI Platform & Solutions Architect with 9+ years building production AWS platforms, serverless backends, and GenAI infrastructure.** I work best with teams running serious systems under multi-region, high-traffic, cost-sensitive, on-call reality — where reliability and governance actually matter.
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%"><img src="https://img.icons8.com/fluency/96/null/cost.png" width="60"/><br/><b>💰 Cost Optimizer</b><br/><sub>FinOps that sticks</sub></td>
+<td align="center" width="25%"><img src="https://img.icons8.com/fluency/96/null/security-shield-green.png" width="60"/><br/><b>🔒 Security First</b><br/><sub>tight IAM, small blast radius</sub></td>
+<td align="center" width="25%"><img src="https://img.icons8.com/fluency/96/null/rocket.png" width="60"/><br/><b>🚀 Reliability</b><br/><sub>5M orders/mo · 99.99%</sub></td>
+<td align="center" width="25%"><img src="https://img.icons8.com/fluency/96/null/artificial-intelligence.png" width="60"/><br/><b>🤖 GenAI Infra</b><br/><sub>Bedrock · RAG · agents</sub></td>
+</tr>
+</table>
+</div>
 
 <table>
 <tr>
@@ -145,6 +156,10 @@ Terraform, CDK, Kubernetes, CI/CD. Shipped fast, without breaking prod. Blue-gre
 
 <div align="center">
 
+<img src="https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/07/23/AWS-CBs-blog-image.png" width="320" alt="AWS Community Builder"/>
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/AWS_Solutions_Architect-Professional_(Feb_2026)-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS_GenAI_Developer-Professional_(Jan_2026)-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <br/>
@@ -177,23 +192,23 @@ Terraform, CDK, Kubernetes, CI/CD. Shipped fast, without breaking prod. Blue-gre
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions"/><br/>Actions</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus"/><br/>Prometheus</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana"/><br/>Grafana</td>
-<td align="center" width="96"><img src="https://img.shields.io/badge/-Bedrock-FF9900?logo=amazonaws&logoColor=white" alt="Bedrock"/><br/>Bedrock</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=pulumi" width="48" height="48" alt="Pulumi"/><br/>Pulumi</td>
 </tr>
 </table>
 
 ### 🤖 GenAI & Data
 
-<table>
-<tr>
-<td align="center" width="110"><img src="https://img.shields.io/badge/-SageMaker-FF9900?logo=amazonaws&logoColor=white" alt="SageMaker"/><br/>SageMaker</td>
-<td align="center" width="110"><img src="https://img.shields.io/badge/-RAG-412991?logo=openai&logoColor=white" alt="RAG"/><br/>RAG</td>
-<td align="center" width="110"><img src="https://img.shields.io/badge/-Pinecone-000000?logo=pinecone&logoColor=white" alt="Pinecone"/><br/>Pinecone</td>
-<td align="center" width="110"><img src="https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white" alt="LangChain"/><br/>LangChain</td>
-<td align="center" width="110"><img src="https://img.shields.io/badge/-OpenSearch-005EB8?logo=opensearch&logoColor=white" alt="OpenSearch"/><br/>OpenSearch</td>
-<td align="center" width="110"><img src="https://img.shields.io/badge/-LiveKit-00B8D9?logo=livekit&logoColor=white" alt="LiveKit"/><br/>LiveKit</td>
-<td align="center" width="110"><img src="https://img.shields.io/badge/-n8n-EA4B71?logo=n8n&logoColor=white" alt="n8n"/><br/>n8n</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG_+_Vector_DBs-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LiveKit-00B8D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAGAS_·_LangSmith-FF6F61?style=for-the-badge"/>
+</p>
 
 ### 🔧 Languages & Runtime
 
@@ -421,6 +436,8 @@ Personal knowledge dashboard. Extraction layer done (37/37 tests), UI ~75%. Sing
 
 [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=rahulladumor&theme=tokyonight&hide_border=true&border_radius=10&ring=667eea&fire=764ba2&currStreakLabel=764ba2)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
+<a href="https://app.daily.dev/rahulladumor"><img src="https://api.daily.dev/devcards/8f09575812fb48abb742ad02bf4425af.png?r=4ho" width="356" alt="Rahul Ladumor's Dev Card"/></a>
+
 <img src="https://github-profile-trophy.vercel.app/?username=rahulladumor&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=8&rank=-C,-?" width="100%" alt="GitHub Trophies"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulladumor&custom_title=Contribution%20Graph&bg_color=1a1b27&color=667eea&line=764ba2&point=a9b1d6&area_color=667eea&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
@@ -464,6 +481,20 @@ preferences:
 ---
 
 <div align="center">
+
+### 💭 Dev Quote & Quick Facts
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+<table>
+<tr>
+<td align="center" width="33%"><img src="https://img.icons8.com/fluency/96/null/money-bag.png" width="56"/><br/><b>₹50L+/yr</b><br/><sub>AWS waste removed</sub></td>
+<td align="center" width="33%"><img src="https://img.icons8.com/fluency/96/null/graduation-cap.png" width="56"/><br/><b>Currently Learning</b><br/><sub>Agentic AI @ IIT Roorkee</sub></td>
+<td align="center" width="33%"><img src="https://img.icons8.com/fluency/96/null/coffee.png" width="56"/><br/><b>Powered By</b><br/><sub>Coffee & curiosity ☕</sub></td>
+</tr>
+</table>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Boring%20but%20reliable%20%3E%20clever%20but%20fragile&fontSize=24&fontColor=fff&animation=fadeIn" width="100%"/>
 
