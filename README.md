@@ -444,6 +444,23 @@ Personal knowledge dashboard. Extraction layer done (37/37 tests), UI ~75%. Sing
 
 <div align="center">
 
+<p align="center">
+  <img alt="Contributions in the last year" src="https://img.shields.io/badge/Contributions_·_last_year-958-2ea043?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="Commits in the last year" src="https://img.shields.io/badge/Commits_·_last_year-924-667eea?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Public repositories" src="https://img.shields.io/badge/Public_Repos-48-764ba2?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<sub><b>Most-used languages</b></sub>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform_%2F_HCL-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell-89E051?style=flat-square&logo=gnubash&logoColor=black"/>
+</p>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=rahulladumor&theme=tokyonight&hide_border=true&border_radius=10&ring=667eea&fire=764ba2&currStreakLabel=764ba2)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <a href="https://app.daily.dev/rahulladumor"><img src="https://api.daily.dev/devcards/8f09575812fb48abb742ad02bf4425af.png?r=4ho" width="356" alt="Rahul Ladumor's Dev Card"/></a>
