@@ -374,7 +374,7 @@ Personal knowledge dashboard. Extraction layer done (37/37 tests), UI ~75%. Sing
 <div align="center">
 
 <a href="https://github.com/InfraTales">
-  <img src="https://infratales.com/content/images/2025/11/favicon_icon-2.png" width="120" alt="InfraTales"/>
+  <img src="https://github.com/InfraTales.png" width="110" alt="InfraTales"/>
 </a>
 
 ### **[InfraTales](https://github.com/InfraTales)** — Production-Ready AWS Infrastructure & War Stories
@@ -442,11 +442,9 @@ Personal knowledge dashboard. Extraction layer done (37/37 tests), UI ~75%. Sing
 
 <div align="center">
 
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=rahulladumor&theme=tokyonight&hide_border=true&border_radius=10&ring=667eea&fire=764ba2&currStreakLabel=764ba2)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rahulladumor&theme=tokyonight&hide_border=true&border_radius=10&ring=667eea&fire=764ba2&currStreakLabel=764ba2)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <a href="https://app.daily.dev/rahulladumor"><img src="https://api.daily.dev/devcards/8f09575812fb48abb742ad02bf4425af.png?r=4ho" width="356" alt="Rahul Ladumor's Dev Card"/></a>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rahulladumor&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=8&rank=-C,-?" width="100%" alt="GitHub Trophies"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulladumor&custom_title=Contribution%20Graph&bg_color=1a1b27&color=667eea&line=764ba2&point=a9b1d6&area_color=667eea&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
 
