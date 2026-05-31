@@ -444,6 +444,7 @@ Personal knowledge dashboard. Extraction layer done (37/37 tests), UI ~75%. Sing
 
 <div align="center">
 
+<!-- STATS:START (auto-updated weekly by .github/workflows/update-stats.yml) -->
 <p align="center">
   <img alt="Contributions in the last year" src="https://img.shields.io/badge/Contributions_·_last_year-958-2ea043?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="Commits in the last year" src="https://img.shields.io/badge/Commits_·_last_year-924-667eea?style=for-the-badge&logo=git&logoColor=white"/>
@@ -453,13 +454,14 @@ Personal knowledge dashboard. Extraction layer done (37/37 tests), UI ~75%. Sing
 <sub><b>Most-used languages</b></sub>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform_%2F_HCL-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell-89E051?style=flat-square&logo=gnubash&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Terraform_%2F_HCL-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 </p>
+<!-- STATS:END -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rahulladumor&theme=tokyonight&hide_border=true&border_radius=10&ring=667eea&fire=764ba2&currStreakLabel=764ba2)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
