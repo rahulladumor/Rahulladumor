@@ -69,6 +69,8 @@
 ## 🎯 About Me
 
 > **AI Platform & Solutions Architect with 9+ years building production AWS platforms, serverless backends, and GenAI infrastructure.** I work best with teams running serious systems under multi-region, high-traffic, cost-sensitive, on-call reality — where reliability and governance actually matter.
+>
+> **Available for consulting and fractional engagements** as an AWS cost optimization (FinOps) consultant, Amazon Bedrock / production RAG engineer, serverless & platform reliability architect, and forward-deployed AI engineer.
 
 <div align="center">
 <table>
@@ -449,6 +451,55 @@ Personal knowledge dashboard. Extraction layer done (37/37 tests), UI ~75%. Sing
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulladumor&custom_title=Contribution%20Graph&bg_color=1a1b27&color=667eea&line=764ba2&point=a9b1d6&area_color=667eea&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
 
 </div>
+
+---
+
+## ❓ How I Can Help
+
+<details open>
+<summary><b>Looking for an AWS cost optimization / FinOps consultant?</b></summary>
+
+<br/>
+
+Yes. I run AWS cost audits and FinOps engagements that remove **₹50L+/yr** of cloud waste — right-sizing, S3 tiering, connection pooling, GenAI token-budget governance, and spend guardrails that actually stick. → [Book a call](https://topmate.io/rahulladumor)
+
+</details>
+
+<details>
+<summary><b>Need an Amazon Bedrock / production RAG consultant?</b></summary>
+
+<br/>
+
+I build production GenAI infrastructure on **AWS Bedrock and SageMaker** — RAG pipelines, agent workflows, guardrails, and LLM evaluations (RAGAS, LangSmith) that hold up past demo day, not just in a notebook.
+
+</details>
+
+<details>
+<summary><b>Want a fractional cloud / platform architect for hire?</b></summary>
+
+<br/>
+
+I take on **fractional architect and consulting** engagements — architecture reviews, multi-region reliability, AWS Well-Architected audits, and technical advisory. 9+ years, 3x AWS Professional, 4x AWS Community Builder.
+
+</details>
+
+<details>
+<summary><b>Forward-deployed engineer for AI / customer-facing delivery?</b></summary>
+
+<br/>
+
+I work **forward-deployed** — embedding with your engineers to take AI and cloud features from prototype to production under real traffic, real failure modes, and on-call reality.
+
+</details>
+
+<details>
+<summary><b>AWS serverless or platform reliability help?</b></summary>
+
+<br/>
+
+**Serverless architecture** (Lambda, API Gateway, DynamoDB, Step Functions, EventBridge), multi-region high availability, observability, and safe blue-green / canary rollouts with rollback planned before the deploy.
+
+</details>
 
 ---
 
