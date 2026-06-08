@@ -446,8 +446,8 @@ Personal knowledge dashboard. Extraction layer done (37/37 tests), UI ~75%. Sing
 
 <!-- STATS:START (auto-updated weekly by .github/workflows/update-stats.yml) -->
 <p align="center">
-  <img alt="Contributions in the last year" src="https://img.shields.io/badge/Contributions_·_last_year-977-2ea043?style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="Commits in the last year" src="https://img.shields.io/badge/Commits_·_last_year-943-667eea?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Contributions in the last year" src="https://img.shields.io/badge/Contributions_·_last_year-974-2ea043?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="Commits in the last year" src="https://img.shields.io/badge/Commits_·_last_year-941-667eea?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="Public repositories" src="https://img.shields.io/badge/Public_Repos-48-764ba2?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
