@@ -446,9 +446,9 @@ Personal knowledge dashboard. Extraction layer done (37/37 tests), UI ~75%. Sing
 
 <!-- STATS:START (auto-updated weekly by .github/workflows/update-stats.yml) -->
 <p align="center">
-  <img alt="Contributions in the last year" src="https://img.shields.io/badge/Contributions_·_last_year-974-2ea043?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="Contributions in the last year" src="https://img.shields.io/badge/Contributions_·_last_year-975-2ea043?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="Commits in the last year" src="https://img.shields.io/badge/Commits_·_last_year-941-667eea?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Public repositories" src="https://img.shields.io/badge/Public_Repos-48-764ba2?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="Public repositories" src="https://img.shields.io/badge/Public_Repos-49-764ba2?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <sub><b>Most-used languages</b></sub>
@@ -457,8 +457,8 @@ Personal knowledge dashboard. Extraction layer done (37/37 tests), UI ~75%. Sing
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell-89E051?style=flat-square&logo=gnubash&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Terraform_%2F_HCL-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform_%2F_HCL-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 </p>
 <!-- STATS:END -->
