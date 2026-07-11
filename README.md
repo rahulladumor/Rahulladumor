@@ -2,17 +2,34 @@
   <img src="./assets/hero.svg" alt="Rahul Ladumor - Principal Cloud and AI Platform Architect" width="100%"/>
 </div>
 
+<h1 align="center">Principal Cloud &amp; AI Platform Architect</h1>
+
+<p align="center">
+  Production GenAI on AWS · RAG and AI Agents · Serverless Architecture · Platform Engineering · FinOps
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-3x_Professional-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="3x AWS Professional Certified"/>
+  <img src="https://img.shields.io/badge/AWS_Community_Builder-4x-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="4x AWS Community Builder"/>
+  <img src="https://img.shields.io/badge/Focus-Production_AI-6D7CFF?style=flat-square" alt="Production AI"/>
+  <img src="https://img.shields.io/badge/Available-Consulting-2EA043?style=flat-square" alt="Available for consulting"/>
+</p>
+
 <div align="center">
 
 [Website](https://www.rahulladumor.com) · [LinkedIn](https://www.linkedin.com/in/rahulladumor/) · [InfraTales](https://infratales.com) · [Book an architecture call](https://topmate.io/rahulladumor)
+
+[Expertise](#aws-and-ai-architecture-services) · [Production evidence](#selected-production-evidence) · [Current builds](#what-i-am-building-now) · [Open source](#open-source-evidence) · [Contact](#hire-an-aws-and-ai-platform-architect)
 
 </div>
 
 ---
 
-## I take AI and cloud systems from "it works" to "we can operate this safely."
+## Production GenAI, AWS platform engineering and AI agent architecture
 
-I am a Principal Cloud and AI Platform Architect with 9+ years of production engineering experience. I design and repair AWS platforms, production GenAI systems, and delivery infrastructure where reliability, security, cost, and operational ownership all matter.
+I take AI and cloud systems from "it works" to "we can operate this safely."
+
+I am a Principal Cloud and AI Platform Architect with 9+ years of production engineering experience. I design, modernise and repair production GenAI platforms, RAG systems, AI agents, serverless AWS architectures, cloud infrastructure and developer platforms where reliability, security, cost optimisation and operational ownership all matter.
 
 Teams usually bring me in when:
 
@@ -32,27 +49,27 @@ Teams usually bring me in when:
 
 ---
 
-## What I solve
+## AWS and AI architecture services
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### Production AI systems
+### Production GenAI, RAG and AI agents
 
 Amazon Bedrock, RAG, agents, evaluation, guardrails, observability, tool execution, prompt governance, trace governance, and production deployment.
 
 </td>
 <td width="33%" valign="top">
 
-### AWS platform reliability
+### AWS, serverless and platform reliability
 
 Serverless and container platforms, multi-region design, IAM boundaries, incident reduction, safe releases, observability, and rollback planning.
 
 </td>
 <td width="33%" valign="top">
 
-### Cloud cost control
+### AWS cost optimisation and FinOps
 
 Architecture-led FinOps, right-sizing, storage lifecycle design, connection and compute optimisation, token budgets, and durable spend guardrails.
 
@@ -205,7 +222,38 @@ I have contributed to production systems for teams across the US, Canada, Japan,
 
 ---
 
-## Work with me
+## Common architecture questions
+
+<details>
+<summary><b>Can you take a RAG system or AI agent from prototype to production?</b></summary>
+
+<br/>
+
+Yes. I work across retrieval architecture, chunking and embeddings, reranking, evaluation, hallucination controls, tool execution, guardrails, observability, IAM, deployment, cost controls, and operational handover. The goal is a production GenAI system your team can measure and safely operate, not another impressive demo.
+
+</details>
+
+<details>
+<summary><b>Do you provide AWS architecture reviews and platform consulting?</b></summary>
+
+<br/>
+
+Yes. Typical engagements include AWS Well-Architected reviews, serverless architecture, multi-account and multi-region design, IAM and security boundaries, Kubernetes and container platforms, Terraform and CDK, CI/CD, reliability engineering, incident reduction, and cloud cost optimisation.
+
+</details>
+
+<details>
+<summary><b>Can you help reduce an AWS bill without creating production risk?</b></summary>
+
+<br/>
+
+Yes. My FinOps approach starts with resource and usage evidence, then covers right-sizing, storage lifecycle policies, idle-resource detection, database and connection behaviour, serverless concurrency, architecture changes, ownership, and spend guardrails. Savings recommendations should include confidence, operational impact, validation, and rollback.
+
+</details>
+
+---
+
+## Hire an AWS and AI Platform Architect
 
 I take on selected consulting and fractional architecture work involving production GenAI, AWS reliability, platform engineering, and cloud cost control.
 
