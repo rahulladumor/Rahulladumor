@@ -77,6 +77,12 @@ Architecture-led FinOps, right-sizing, storage lifecycle design, connection and 
 </tr>
 </table>
 
+<br/>
+
+<div align="center">
+  <img src="./assets/architecture-map.svg" alt="Production architecture operating model: failure signals to architecture controls to measurable outcomes" width="100%"/>
+</div>
+
 ---
 
 ## Selected production evidence
@@ -177,6 +183,12 @@ A control plane for coding-agent sessions, tool calls, cost, memory, approval ga
 
 ## Technical focus
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,typescript,nodejs,python,go" alt="AWS, Terraform, Kubernetes, Docker, TypeScript, Node.js, Python and Go" />
+</div>
+
+<br/>
+
 **AWS:** Lambda, API Gateway, DynamoDB, EventBridge, Step Functions, ECS, EKS, RDS, S3, CloudFront, IAM, VPC, OpenSearch, Bedrock, SageMaker
 
 **Platform engineering:** Terraform, CDK, CloudFormation, GitHub Actions, Kubernetes, Docker, CI/CD, observability, incident response, release engineering
@@ -189,15 +201,34 @@ A control plane for coding-agent sessions, tool calls, cost, memory, approval ga
 
 ## Credentials and community
 
-- AWS Certified Solutions Architect - Professional
-- AWS Certified DevOps Engineer - Professional
-- AWS Certified Generative AI Developer - Professional
-- 4x AWS Community Builder - Serverless
-- HashiCorp Certified: Terraform Associate
-- PG Certificate in Agentic AI, Generative AI and Machine Learning - IIT Roorkee
-- AWS user-group organiser and technical speaker
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="112" alt="AWS Certified Solutions Architect Professional"/><br/>
+<b>Solutions Architect</b><br/><sub>AWS Professional</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://images.credly.com/size/340x340/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/blob" width="112" alt="AWS Certified Generative AI Developer Professional"/><br/>
+<b>Generative AI Developer</b><br/><sub>AWS Professional</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://images.credly.com/size/340x340/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="112" alt="AWS Certified DevOps Engineer Professional"/><br/>
+<b>DevOps Engineer</b><br/><sub>AWS Professional</sub>
+</td>
+</tr>
+</table>
+</div>
 
-I have contributed to production systems for teams across the US, Canada, Japan, Thailand, Indonesia, and India, spanning high-volume commerce, enterprise standards, cloud security, AI platforms, and infrastructure automation.
+<div align="center">
+
+**3x AWS Professional** · **4x AWS Community Builder - Serverless** · **Terraform Associate**
+
+**PG Certificate in Agentic AI, Generative AI and Machine Learning - IIT Roorkee**
+
+</div>
+
+I organise AWS community programs and speak about serverless architecture, production AI and platform engineering. I have contributed to production systems for teams across the US, Canada, Japan, Thailand, Indonesia, and India, spanning high-volume commerce, enterprise standards, cloud security, AI platforms, and infrastructure automation.
 
 ---
 
