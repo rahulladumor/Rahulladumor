@@ -1,45 +1,100 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Rahul Ladumor - Principal Cloud and AI Platform Architect">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-labelledby="title desc">
+  <title id="title">Rahul Ladumor - Principal Cloud and AI Platform Architect</title>
+  <desc id="desc">Production GenAI, AI agents, RAG, AWS platform engineering, reliability and FinOps consulting.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b1020"/>
-      <stop offset="0.55" stop-color="#11162a"/>
-      <stop offset="1" stop-color="#0a0e1c"/>
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset=".48" stop-color="#0c1728"/>
+      <stop offset="1" stop-color="#090e19"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#667eea"/>
-      <stop offset="1" stop-color="#a78bfa"/>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#31c7f5"/>
+      <stop offset=".52" stop-color="#6d7cff"/>
+      <stop offset="1" stop-color="#a56cff"/>
     </linearGradient>
     <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#ffffff"/>
-      <stop offset="0.65" stop-color="#cdd6ff"/>
-      <stop offset="1" stop-color="#a78bfa"/>
+      <stop offset=".7" stop-color="#dbe7ff"/>
+      <stop offset="1" stop-color="#aeb8ff"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0.85" cy="0.1" r="0.7">
-      <stop offset="0" stop-color="#667eea" stop-opacity="0.30"/>
-      <stop offset="1" stop-color="#667eea" stop-opacity="0"/>
+    <radialGradient id="glowA" cx=".82" cy=".28" r=".58">
+      <stop offset="0" stop-color="#536dfe" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#536dfe" stop-opacity="0"/>
     </radialGradient>
+    <radialGradient id="glowB" cx=".08" cy=".92" r=".5">
+      <stop offset="0" stop-color="#00b8d9" stop-opacity=".13"/>
+      <stop offset="1" stop-color="#00b8d9" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#7f91b8" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#02060c" flood-opacity=".45"/>
+    </filter>
   </defs>
 
-  <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
-  <rect width="1200" height="320" rx="22" fill="url(#glow)"/>
-  <rect x="0" y="0" width="6" height="320" rx="3" fill="url(#accent)"/>
+  <rect width="1200" height="380" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="380" rx="24" fill="url(#grid)"/>
+  <rect width="1200" height="380" rx="24" fill="url(#glowA)"/>
+  <rect width="1200" height="380" rx="24" fill="url(#glowB)"/>
+  <rect x="1" y="1" width="1198" height="378" rx="23" fill="none" stroke="#8195c9" stroke-opacity=".18"/>
+  <rect x="0" y="0" width="7" height="380" rx="3.5" fill="url(#line)"/>
 
-  <text x="60" y="62" font-family="'JetBrains Mono','Fira Code',monospace" font-size="15" fill="#8b9fff" letter-spacing="1.2">PRODUCTION SYSTEMS · CONTROLLED FAILURE</text>
-
-  <text x="58" y="142" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="62" font-weight="800" fill="url(#name)">Rahul Ladumor</text>
-  <text x="62" y="184" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="600" fill="#a5b4fc">Principal Cloud &amp; AI Platform Architect</text>
-  <text x="62" y="216" font-family="'JetBrains Mono','Fira Code',monospace" font-size="15.5" fill="#8b949e">Production GenAI on AWS · Platform reliability · FinOps · Safe delivery</text>
-
-  <g>
-    <rect x="60" y="250" width="205" height="38" rx="19" fill="#667eea" fill-opacity="0.12" stroke="#667eea" stroke-opacity="0.5"/>
-    <text x="162" y="274" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="13.5" fill="#c9d3ff">₹50L+/yr waste removed</text>
+  <g transform="translate(56 44)">
+    <rect width="260" height="30" rx="15" fill="#101f35" stroke="#37c8f4" stroke-opacity=".35"/>
+    <circle cx="18" cy="15" r="4" fill="#43d6a7"/>
+    <text x="32" y="20" font-family="'JetBrains Mono','Fira Code',monospace" font-size="12.5" font-weight="600" fill="#9ddff4" letter-spacing=".8">PRODUCTION-FIRST ARCHITECTURE</text>
   </g>
-  <g>
-    <rect x="280" y="250" width="270" height="38" rx="19" fill="#667eea" fill-opacity="0.12" stroke="#667eea" stroke-opacity="0.5"/>
-    <text x="415" y="274" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="13.5" fill="#c9d3ff">5M+ orders/mo · 99.99% uptime</text>
+
+  <text x="56" y="143" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="60" font-weight="800" fill="url(#name)">Rahul Ladumor</text>
+  <text x="58" y="187" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="26" font-weight="650" fill="#b9c7ff">Principal Cloud &amp; AI Platform Architect</text>
+  <text x="58" y="220" font-family="'JetBrains Mono','Fira Code',monospace" font-size="14.5" fill="#93a4bd">AWS · Production GenAI · RAG · AI Agents · Platform Engineering · FinOps</text>
+
+  <g transform="translate(58 259)">
+    <rect width="190" height="43" rx="11" fill="#0f2033" stroke="#31c7f5" stroke-opacity=".32"/>
+    <text x="16" y="18" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#7894ad">CLOUD WASTE REMOVED</text>
+    <text x="16" y="35" font-family="'JetBrains Mono',monospace" font-size="15" font-weight="700" fill="#d7f7ff">₹50L+ / year</text>
   </g>
-  <g>
-    <rect x="565" y="250" width="235" height="38" rx="19" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.5"/>
-    <text x="682" y="274" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="13.5" fill="#ddd2ff">3x AWS Professional</text>
+  <g transform="translate(262 259)">
+    <rect width="224" height="43" rx="11" fill="#111e34" stroke="#6d7cff" stroke-opacity=".38"/>
+    <text x="16" y="18" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#8797ba">PRODUCTION SCALE</text>
+    <text x="16" y="35" font-family="'JetBrains Mono',monospace" font-size="15" font-weight="700" fill="#e3e7ff">5M+ orders / month</text>
+  </g>
+  <g transform="translate(500 259)">
+    <rect width="182" height="43" rx="11" fill="#151d35" stroke="#a56cff" stroke-opacity=".38"/>
+    <text x="16" y="18" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#9b8eba">AVAILABILITY</text>
+    <text x="16" y="35" font-family="'JetBrains Mono',monospace" font-size="15" font-weight="700" fill="#eee0ff">99.99% uptime</text>
+  </g>
+
+  <text x="58" y="344" font-family="'Segoe UI',Arial,sans-serif" font-size="14" fill="#8190a8">Boring but reliable  &gt;  clever but fragile</text>
+
+  <g transform="translate(782 54)" filter="url(#shadow)">
+    <rect width="358" height="274" rx="20" fill="#0a1424" stroke="#7c91c6" stroke-opacity=".24"/>
+    <text x="24" y="35" font-family="'JetBrains Mono',monospace" font-size="11.5" fill="#7285a5" letter-spacing="1">SYSTEM / PRODUCTION PATH</text>
+
+    <g transform="translate(24 58)">
+      <rect width="310" height="48" rx="12" fill="#101f31" stroke="#31c7f5" stroke-opacity=".4"/>
+      <circle cx="24" cy="24" r="7" fill="#31c7f5" fill-opacity=".9"/>
+      <text x="43" y="21" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#7d91a9">INTELLIGENCE</text>
+      <text x="43" y="37" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="700" fill="#d9f7ff">RAG · AGENTS · EVALS</text>
+    </g>
+    <path d="M179 106 V124" stroke="url(#line)" stroke-width="2"/>
+    <path d="M173 119 L179 125 L185 119" fill="none" stroke="#7288ff" stroke-width="2"/>
+
+    <g transform="translate(24 126)">
+      <rect width="310" height="48" rx="12" fill="#111c32" stroke="#6d7cff" stroke-opacity=".45"/>
+      <circle cx="24" cy="24" r="7" fill="#6d7cff"/>
+      <text x="43" y="21" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#8692b2">PLATFORM</text>
+      <text x="43" y="37" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="700" fill="#e3e6ff">AWS · IAM · DELIVERY</text>
+    </g>
+    <path d="M179 174 V192" stroke="url(#line)" stroke-width="2"/>
+    <path d="M173 187 L179 193 L185 187" fill="none" stroke="#8a73ff" stroke-width="2"/>
+
+    <g transform="translate(24 194)">
+      <rect width="310" height="48" rx="12" fill="#161b31" stroke="#a56cff" stroke-opacity=".42"/>
+      <circle cx="24" cy="24" r="7" fill="#a56cff"/>
+      <text x="43" y="21" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#978daf">OPERATIONS</text>
+      <text x="43" y="37" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="700" fill="#f0e2ff">SLOs · COST · ROLLBACK</text>
+    </g>
   </g>
 </svg>
