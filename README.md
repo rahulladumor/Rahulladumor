@@ -1,133 +1,185 @@
 <div align="center">
-  <img src="./assets/hero.svg" alt="Rahul Ladumor - Principal Cloud and AI Platform Architect" width="100%"/>
+  <img src="./assets/hero.svg" alt="Rahul Ladumor - Production AWS and AI Platform Architect" width="100%"/>
 </div>
 
-<h1 align="center">Principal Cloud &amp; AI Platform Architect</h1>
+<h1 align="center">Production AWS &amp; AI Platform Architect</h1>
 
 <p align="center">
-  Production GenAI on AWS · RAG and AI Agents · Serverless Architecture · Platform Engineering · FinOps
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-3x_Professional-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="3x AWS Professional Certified"/>
-  <img src="https://img.shields.io/badge/AWS_Community_Builder-4x-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="4x AWS Community Builder"/>
-  <img src="https://img.shields.io/badge/Focus-Production_AI-6D7CFF?style=flat-square" alt="Production AI"/>
-  <img src="https://img.shields.io/badge/Available-Consulting-2EA043?style=flat-square" alt="Available for consulting"/>
+  I take AWS, RAG and AI-agent systems from <b>"it works"</b> to <b>"we can trust it in production."</b>
 </p>
 
 <div align="center">
 
-[Website](https://www.rahulladumor.com) · [LinkedIn](https://www.linkedin.com/in/rahulladumor/) · [InfraTales](https://infratales.com) · [Book an architecture call](https://topmate.io/rahulladumor)
+[Production Review](https://www.rahulladumor.com/contact?intent=production-review) · [Case Studies](https://www.rahulladumor.com/work) · [Services](https://www.rahulladumor.com/services) · [Architecture Notes](https://www.rahulladumor.com/writing) · [LinkedIn](https://www.linkedin.com/in/rahulladumor/)
 
-[Expertise](#aws-and-ai-architecture-services) · [Production evidence](#selected-production-evidence) · [Current builds](#what-i-am-building-now) · [Open source](#open-source-evidence) · [Contact](#hire-an-aws-and-ai-platform-architect)
+</div>
+
+<br/>
+
+<div align="center">
+
+| 9+ years in production | 3× AWS Professional | 4× AWS Community Builder | IIT Roorkee |
+|:--:|:--:|:--:|:--:|
+| AWS, platform and backend systems | Architecture, DevOps and GenAI | Serverless community | Agentic AI, GenAI and ML |
 
 </div>
 
 ---
 
-## Production GenAI, AWS platform engineering and AI agent architecture
+## The production gap I work on
 
-I take AI and cloud systems from "it works" to "we can operate this safely."
+The model is rarely the whole problem.
 
-I am a Principal Cloud and AI Platform Architect with 9+ years of production engineering experience. I design, modernise and repair production GenAI platforms, RAG systems, AI agents, serverless AWS architectures, cloud infrastructure and developer platforms where reliability, security, cost optimisation and operational ownership all matter.
+A serious production AI or AWS platform also needs evidence, IAM boundaries, observability, failure isolation, cost ceilings, safe releases, rollback, and an owner who knows what happens next.
 
-Teams usually bring me in when:
-
-- an AI agent or RAG workflow works in a demo but loses context, retrieves the wrong evidence, or fails unpredictably in production
-- an AWS platform has become expensive, fragile, difficult to secure, or painful to change
-- a high-stakes architecture decision needs a senior owner who can balance delivery speed against long-term operational risk
-
-<div align="center">
-
-| Production scale | Cost impact | Professional evidence |
-|:--:|:--:|:--:|
-| **5M+ orders/month** at sub-200ms and 99.99% uptime | **₹50L+/year** in avoidable AWS spend removed | **3x AWS Professional** · **4x AWS Community Builder** |
-
-</div>
-
-> My default is simple: boring but reliable beats clever but fragile. Cost, failure behaviour, ownership, observability, and rollback should be clear before production traffic arrives.
-
----
-
-## AWS and AI architecture services
+I work with CTOs, founders and platform teams when:
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### Production GenAI, RAG and AI agents
+### The AI system cannot be trusted
 
-Amazon Bedrock, RAG, agents, evaluation, guardrails, observability, tool execution, prompt governance, trace governance, and production deployment.
-
-</td>
-<td width="33%" valign="top">
-
-### AWS, serverless and platform reliability
-
-Serverless and container platforms, multi-region design, IAM boundaries, incident reduction, safe releases, observability, and rollback planning.
+- RAG retrieves plausible but incorrect evidence
+- AI agents lose context or fail during tool execution
+- quality is discussed but not continuously evaluated
+- prompts, traces and sensitive data have no clear governance
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### AWS cost optimisation and FinOps
+### The AWS platform cannot be controlled
 
-Architecture-led FinOps, right-sizing, storage lifecycle design, connection and compute optimisation, token budgets, and durable spend guardrails.
+- cloud spend increases without technical ownership
+- deployments feel risky and rollback is unclear
+- serverless or container workloads fail under real traffic
+- dashboards exist, but incidents still take hours to explain
 
 </td>
 </tr>
 </table>
 
-<br/>
-
 <div align="center">
-  <img src="./assets/architecture-map.svg" alt="Production architecture operating model: failure signals to architecture controls to measurable outcomes" width="100%"/>
+  <img src="./assets/architecture-map.svg" alt="The demo-to-production gap across evidence, security, cost, delivery, operations and ownership" width="100%"/>
 </div>
+
+> **My operating principle:** boring but reliable beats clever but fragile. Every important design decision should explain cost, failure behaviour, blast radius, operational ownership, validation, and rollback.
 
 ---
 
-## Selected production evidence
+## What you can bring me
 
-### KFC Thailand - omnichannel ordering at national scale
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| | |
+### 01 / Production Review
+
+A fixed-scope architecture review for an AWS or AI system that is live or approaching launch.
+
+**Best for:** rising AWS cost, reliability risk, latency, weak observability, unsafe deployment, migration planning, or unclear rollback.
+
+**You leave with:** prioritised findings, evidence, architecture decisions, risk levels, recommended sequence, and practical next actions.
+
+[Review the engagement](https://www.rahulladumor.com/services)
+
+</td>
+<td width="50%" valign="top">
+
+### 02 / GenAI and RAG Readiness Review
+
+A production-readiness review for RAG, AI agents and Amazon Bedrock workloads.
+
+**Best for:** retrieval quality, hallucination exposure, tool reliability, evaluation coverage, guardrails, trace governance, and cost-per-request ceilings.
+
+**You leave with:** failure-mode analysis, evaluation plan, production controls, observability requirements, and launch blockers.
+
+[Review the engagement](https://www.rahulladumor.com/services)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 / Implementation Sprint
+
+A scoped engineering sprint to close one important production gap.
+
+**Typical work:** RAG hardening, AWS cost controls, deployment safety, observability, IaC repair, migration steps, IAM boundaries, or rollback automation.
+
+**The rule:** measurable acceptance criteria and a known rollback path before implementation begins.
+
+[Discuss a sprint](https://www.rahulladumor.com/contact)
+
+</td>
+<td width="50%" valign="top">
+
+### 04 / Fractional Platform Architect
+
+Ongoing architecture ownership without hiring a full-time Principal Architect.
+
+**Typical work:** design reviews, architecture standards, production decisions, cost governance, reliability direction, team mentoring, and risk escalation.
+
+**The role:** senior technical judgment where architecture, product delivery, and operations meet.
+
+[Discuss fractional ownership](https://www.rahulladumor.com/contact)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Production evidence ledger
+
+### KFC Thailand / national-scale ordering
+
+| Signal | Evidence |
 |---|---|
-| **Challenge** | Support high-volume ordering across channels without sacrificing latency, release safety, or availability. |
-| **Scale** | 5M+ orders/month, sub-200ms response time, 99.99% uptime, and 20+ releases/week. |
-| **Architecture** | Event-driven services on Kubernetes with Kafka, Terraform, blue-green delivery, and production observability. |
-| **Result** | The platform handled peak demand while maintaining both delivery speed and operational reliability. |
+| **Operating scale** | More than 5M orders per month |
+| **Performance** | Sub-200ms response time under production traffic |
+| **Reliability** | 99.99% availability with frequent releases |
+| **Engineering surface** | Event-driven services, Node.js, Go, Kafka, Kubernetes, Terraform, blue-green delivery |
+| **Why it matters** | Delivery speed and availability were treated as one system rather than competing goals |
 
-### AWS cost optimisation - ₹50L+ annual waste removed
+### Enterprise GenAI and RAG / knowledge retrieval
 
-| | |
+| Signal | Evidence |
 |---|---|
-| **Challenge** | Cloud spend had grown without enough evidence, ownership, or controls to prevent waste from returning. |
-| **Scope** | Compute, storage, databases, serverless concurrency, connection behaviour, and operational waste. |
-| **Approach** | Evidence-first audit, right-sizing, lifecycle policies, architecture changes, and ongoing governance. |
-| **Result** | More than ₹50L/year in avoidable AWS spend removed without trading away reliability. |
+| **Corpus** | More than 2M documents |
+| **Architecture** | Amazon Bedrock, S3 and Lambda ingestion, OpenSearch vector retrieval, semantic caching |
+| **Production concern** | Retrieval quality, latency, LLM cost and observable failure behaviour |
+| **Result** | Sub-second retrieval with lower model spend through semantic caching |
+| **Why it matters** | RAG quality was treated as a measurable production property, not a prompt-writing exercise |
 
-### Turing - AI-assisted infrastructure validation
+### AI-assisted infrastructure validation / Turing
 
-| | |
+| Signal | Evidence |
 |---|---|
-| **Challenge** | Infrastructure tasks needed consistent validation across repositories, languages, and IaC frameworks. |
-| **Scale** | 1,745 tasks across Terraform, CDK, CDKTF, Pulumi, and CloudFormation in a 12-repository ecosystem. |
-| **Approach** | Automated curation, repository validation, CI/CD repair workflows, and repeatable quality gates. |
-| **Result** | 96.3% validated task quality across the evaluated task set. |
+| **Evaluated work** | 1,745 infrastructure tasks across a 12-repository ecosystem |
+| **Frameworks** | Terraform, CDK, CDKTF, Pulumi and CloudFormation |
+| **Control surface** | Automated curation, repository validation, CI/CD repair and repeatable quality gates |
+| **Result** | 96.3% validated task quality across the evaluated task set |
+| **Why it matters** | AI-generated infrastructure needs deterministic validation before it becomes trusted delivery output |
 
 <details>
-<summary><b>A representative production intervention</b></summary>
+<summary><b>Operator note: when "Redis is at 100% CPU" was not the real root cause</b></summary>
 
 <br/>
 
-A shared Redis deployment reached 100% CPU with 1,620 open connections and began degrading an indexing pipeline. The failure was not a single capacity problem: a Lambda path used an unbounded key scan, connection handling was weak, and credentials needed remediation.
+A shared Redis deployment reached 100% CPU with 1,620 open connections and began degrading an indexing pipeline.
 
-The response combined application fixes with a cost-neutral migration to a dedicated Valkey 7.2 cluster, explicit rollback, safer credential handling, and operational validation. This is the work I prefer: identify the complete failure chain, reduce immediate risk, and leave the system easier to own.
+The capacity graph was only the first signal. The failure chain included an unbounded key scan in a Lambda path, weak connection handling, shared workload contention, and credentials that needed remediation.
+
+The response combined application fixes with a cost-neutral migration to a dedicated Valkey 7.2 cluster, explicit rollback, safer credentials, and operational validation.
+
+This is the work I prefer: find the complete failure chain, control immediate risk, and leave the system easier for the next engineer to own.
 
 </details>
 
 ---
 
-## What I am building now
+## Systems I am building
 
 <table>
 <tr>
@@ -135,9 +187,9 @@ The response combined application fixes with a cost-neutral migration to a dedic
 
 ### [IdleLens](https://idlelens.com)
 
-**Private beta / building**
+**AWS waste evidence engine**
 
-A read-only AWS waste scanner that converts resource evidence into prioritised savings recommendations. The design centres on safe onboarding, multi-account scanning, confidence scoring, and findings that operators can verify before acting.
+A read-only AWS cost-optimisation product that converts resource evidence into prioritised findings with confidence, estimated monthly impact, and a suggested operator action.
 
 `AWS · Next.js · TypeScript · Fargate`
 
@@ -146,20 +198,20 @@ A read-only AWS waste scanner that converts resource evidence into prioritised s
 
 ### [InfraTales](https://infratales.com)
 
-**Live**
+**Architecture field notes**
 
-A practical AWS and AI engineering publication about what broke, what it cost, what changed, and how the system was made safer.
+A publication and open-source organisation focused on real AWS and AI failure modes: what broke, what it cost, what changed, and how the system became safer.
 
-[Explore the open-source organisation](https://github.com/InfraTales)
+[Explore InfraTales on GitHub](https://github.com/InfraTales)
 
 </td>
 <td width="33%" valign="top">
 
-### AI agent telemetry
+### AI Agent Telemetry
 
-**Private prototype**
+**Private control-plane prototype**
 
-A control plane for coding-agent sessions, tool calls, cost, memory, approval gates, redaction, and evidence retention across local and cloud execution.
+Session evidence, tool calls, cost, memory, approval gates, redaction, retention and review paths across local and cloud coding-agent execution.
 
 `Claude Code · OpenTelemetry · TypeScript · Python`
 
@@ -169,19 +221,18 @@ A control plane for coding-agent sessions, tool calls, cost, memory, approval ga
 
 ---
 
-## Open-source evidence
+## Open-source proof
 
-| Repository | What it demonstrates |
+| Repository | Production question it answers |
 |---|---|
-| [AWS cost optimisation case study](https://github.com/InfraTales/infratales-aws-cost-optimization-50l-case-study) | Evidence-led cloud waste reduction with explicit operational constraints. |
-| [Enterprise secure web application](https://github.com/InfraTales/enterprise-secure-webapp-3tier) | Production-oriented AWS networking, IAM, deployment, and operational controls. |
-| [Zero-trust network architecture](https://github.com/InfraTales/zero-trust-network-architecture) | Identity-aware access and smaller blast-radius design for enterprise systems. |
-
-[Explore all InfraTales repositories](https://github.com/orgs/InfraTales/repositories)
+| [AWS cost-optimisation case study](https://github.com/InfraTales/infratales-aws-cost-optimization-50l-case-study) | How do you remove cloud waste without introducing operational risk? |
+| [Enterprise secure web application](https://github.com/InfraTales/enterprise-secure-webapp-3tier) | How should networking, IAM, deployment and operations fit together? |
+| [Zero-trust network architecture](https://github.com/InfraTales/zero-trust-network-architecture) | How do identity-aware boundaries reduce blast radius? |
+| [InfraTales repositories](https://github.com/orgs/InfraTales/repositories) | How do these patterns translate into reusable infrastructure? |
 
 ---
 
-## Technical focus
+## Technical operating surface
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,typescript,nodejs,python,go" alt="AWS, Terraform, Kubernetes, Docker, TypeScript, Node.js, Python and Go" />
@@ -189,17 +240,18 @@ A control plane for coding-agent sessions, tool calls, cost, memory, approval ga
 
 <br/>
 
-**AWS:** Lambda, API Gateway, DynamoDB, EventBridge, Step Functions, ECS, EKS, RDS, S3, CloudFront, IAM, VPC, OpenSearch, Bedrock, SageMaker
-
-**Platform engineering:** Terraform, CDK, CloudFormation, GitHub Actions, Kubernetes, Docker, CI/CD, observability, incident response, release engineering
-
-**AI engineering:** RAG, agents, tool execution, evaluations, guardrails, prompt and trace governance, LangChain, LangGraph, RAGAS, LangSmith
-
-**Languages:** TypeScript, Node.js, Python, Go
+| Domain | Production focus |
+|---|---|
+| **AWS architecture** | Lambda, API Gateway, DynamoDB, EventBridge, Step Functions, SQS, ECS, EKS, RDS, S3, CloudFront, IAM, VPC, OpenSearch |
+| **Production GenAI** | Amazon Bedrock, RAG, AI agents, tool execution, evaluations, guardrails, prompt and trace governance, semantic caching |
+| **Platform engineering** | Terraform, CDK, CloudFormation, GitHub Actions, Kubernetes, Docker, CI/CD, multi-account foundations |
+| **Reliability** | Observability, SLOs, incident analysis, failure isolation, canary and blue-green delivery, rollback engineering |
+| **Cost and FinOps** | Evidence-led right-sizing, lifecycle policies, idle-resource analysis, unit economics, budgets and spend guardrails |
+| **Languages** | TypeScript, Node.js, Python and Go |
 
 ---
 
-## Credentials and community
+## Professional proof
 
 <div align="center">
 <table>
@@ -222,13 +274,13 @@ A control plane for coding-agent sessions, tool calls, cost, memory, approval ga
 
 <div align="center">
 
-**3x AWS Professional** · **4x AWS Community Builder - Serverless** · **Terraform Associate**
+**3× AWS Professional Certified** · **4× AWS Community Builder - Serverless** · **HashiCorp Terraform Associate**
 
 **PG Certificate in Agentic AI, Generative AI and Machine Learning - IIT Roorkee**
 
-</div>
+Upwork Top Rated · AWS community organiser · Technical speaker · Based in Surat, India · Working worldwide
 
-I organise AWS community programs and speak about serverless architecture, production AI and platform engineering. I have contributed to production systems for teams across the US, Canada, Japan, Thailand, Indonesia, and India, spanning high-volume commerce, enterprise standards, cloud security, AI platforms, and infrastructure automation.
+</div>
 
 ---
 
@@ -253,14 +305,14 @@ I organise AWS community programs and speak about serverless architecture, produ
 
 ---
 
-## Common architecture questions
+## Common production questions
 
 <details>
-<summary><b>Can you take a RAG system or AI agent from prototype to production?</b></summary>
+<summary><b>Can you take an AI agent or RAG system from prototype to production?</b></summary>
 
 <br/>
 
-Yes. I work across retrieval architecture, chunking and embeddings, reranking, evaluation, hallucination controls, tool execution, guardrails, observability, IAM, deployment, cost controls, and operational handover. The goal is a production GenAI system your team can measure and safely operate, not another impressive demo.
+Yes. I work across retrieval architecture, chunking and embeddings, reranking, evaluation, hallucination controls, tool execution, guardrails, observability, IAM, deployment, cost-per-request, and operational handover.
 
 </details>
 
@@ -269,29 +321,29 @@ Yes. I work across retrieval architecture, chunking and embeddings, reranking, e
 
 <br/>
 
-Yes. Typical engagements include AWS Well-Architected reviews, serverless architecture, multi-account and multi-region design, IAM and security boundaries, Kubernetes and container platforms, Terraform and CDK, CI/CD, reliability engineering, incident reduction, and cloud cost optimisation.
+Yes. Reviews can cover serverless architecture, multi-account and multi-region design, IAM and security boundaries, Kubernetes and container platforms, Terraform and CDK, CI/CD, incident risk, reliability, and AWS cost optimisation.
 
 </details>
 
 <details>
-<summary><b>Can you help reduce an AWS bill without creating production risk?</b></summary>
+<summary><b>Can AWS cost be reduced without increasing production risk?</b></summary>
 
 <br/>
 
-Yes. My FinOps approach starts with resource and usage evidence, then covers right-sizing, storage lifecycle policies, idle-resource detection, database and connection behaviour, serverless concurrency, architecture changes, ownership, and spend guardrails. Savings recommendations should include confidence, operational impact, validation, and rollback.
+Yes, but the recommendation must include evidence, confidence, operational impact, validation and rollback. A cheaper resource configuration is not a saving if it creates latency, incident load, data risk, or future rework.
 
 </details>
 
 ---
 
-## Hire an AWS and AI Platform Architect
+## Bring me the system that has to survive
 
-I take on selected consulting and fractional architecture work involving production GenAI, AWS reliability, platform engineering, and cloud cost control.
-
-The best starting point is a concrete system problem: an unreliable AI workflow, architecture risk, production instability, unexplained AWS spend, security exposure, or a delivery bottleneck that needs senior technical ownership.
+A good first conversation starts with evidence: the architecture, the current failure or cost signal, the operating constraints, and what the business cannot afford to get wrong.
 
 <div align="center">
 
-[Book an architecture call](https://topmate.io/rahulladumor) · [Visit rahulladumor.com](https://www.rahulladumor.com) · [Connect on LinkedIn](https://www.linkedin.com/in/rahulladumor/)
+### [Book a Production Review](https://www.rahulladumor.com/contact?intent=production-review)
+
+[rahulladumor.com](https://www.rahulladumor.com) · [hello@rahulladumor.com](mailto:hello@rahulladumor.com) · [LinkedIn](https://www.linkedin.com/in/rahulladumor/) · [InfraTales](https://infratales.com)
 
 </div>
