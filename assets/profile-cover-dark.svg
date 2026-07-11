@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" width="1200" height="500" role="img" aria-labelledby="title desc">
+  <title id="title">Rahul Ladumor - Production AWS and AI Platform Architect</title>
+  <desc id="desc">Editorial profile cover describing production reviews for AWS, Generative AI, RAG, reliability and cloud cost.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080e1a"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <pattern id="grain" width="80" height="80" patternUnits="userSpaceOnUse">
+      <circle cx="8" cy="12" r=".7" fill="#f4f7fb" opacity=".03"/>
+      <circle cx="51" cy="33" r=".6" fill="#f4f7fb" opacity=".025"/>
+      <circle cx="25" cy="70" r=".5" fill="#f4f7fb" opacity=".025"/>
+    </pattern>
+    <filter id="card" x="-15%" y="-15%" width="130%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#0b1026" flood-opacity=".08"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="500" rx="22" fill="url(#paper)"/>
+  <rect width="1200" height="500" rx="22" fill="url(#grain)"/>
+  <rect x="1" y="1" width="1198" height="498" rx="21" fill="none" stroke="#dbe5f2" stroke-opacity=".18"/>
+
+  <g transform="translate(50 38)">
+    <rect width="42" height="42" rx="11" fill="#f4f7fb"/>
+    <circle cx="14" cy="14" r="4" fill="#f2b84b"/>
+    <circle cx="29" cy="14" r="4" fill="#30a69a"/>
+    <circle cx="21.5" cy="29" r="4" fill="#f4f7fb"/>
+    <path d="M17 16.5L20 25M26 16.5L23 25M18 14H25" stroke="#0b1026" stroke-width="1.2" opacity=".7"/>
+    <text x="56" y="17" font-family="'Segoe UI',Arial,sans-serif" font-size="16" font-weight="700" fill="#f4f7fb">Rahul Ladumor</text>
+    <text x="56" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#a7b4c5">PRODUCTION AWS &amp; AI PLATFORM ARCHITECT</text>
+  </g>
+
+  <g transform="translate(50 112)">
+    <rect width="246" height="27" rx="13.5" fill="#172435" stroke="#34445a"/>
+    <text x="123" y="18" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5" font-weight="650" fill="#d7e0eb">PRODUCTION ARCHITECTURE DOSSIER</text>
+    <rect x="306" width="140" height="27" rx="13.5" fill="#12342f" stroke="#27665d"/>
+    <text x="376" y="18" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5" font-weight="650" fill="#16796f">AWS PRO CERTIFIED</text>
+    <rect x="456" width="172" height="27" rx="13.5" fill="#352913" stroke="#765a22"/>
+    <text x="542" y="18" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5" font-weight="650" fill="#8a6112">4× COMMUNITY BUILDER</text>
+  </g>
+
+  <text x="50" y="202" font-family="'Segoe UI',Arial,sans-serif" font-size="51" font-weight="760" fill="#f4f7fb">Your AWS and AI systems</text>
+  <text x="50" y="258" font-family="'Segoe UI',Arial,sans-serif" font-size="51" font-weight="760" fill="#f4f7fb">worked in the demo.</text>
+  <text x="50" y="319" font-family="Georgia,'Times New Roman',serif" font-size="58" font-style="italic" fill="#f4f7fb">I make them survive production.</text>
+
+  <text x="52" y="363" font-family="'Segoe UI',Arial,sans-serif" font-size="15" fill="#a7b4c5">RAG quality · AI agent reliability · AWS cost · deploy safety · observability · rollback</text>
+
+  <g transform="translate(796 38)" filter="url(#card)">
+    <rect width="354" height="344" rx="18" fill="#121c2c" stroke="#2b3a50"/>
+    <text x="26" y="38" font-family="'JetBrains Mono',monospace" font-size="11" letter-spacing="1.4" fill="#a7b4c5">CALL ME WHEN</text>
+    <line x1="26" y1="53" x2="328" y2="53" stroke="#2a3749"/>
+
+    <circle cx="30" cy="84" r="4" fill="#30a69a"/>
+    <text x="47" y="89" font-family="'Segoe UI',Arial,sans-serif" font-size="14" fill="#e0e7f1">The AWS bill climbs without an owner</text>
+
+    <circle cx="30" cy="126" r="4" fill="#30a69a"/>
+    <text x="47" y="131" font-family="'Segoe UI',Arial,sans-serif" font-size="14" fill="#e0e7f1">RAG gives confident, wrong answers</text>
+
+    <circle cx="30" cy="168" r="4" fill="#30a69a"/>
+    <text x="47" y="173" font-family="'Segoe UI',Arial,sans-serif" font-size="14" fill="#e0e7f1">Agent tool calls fail unpredictably</text>
+
+    <circle cx="30" cy="210" r="4" fill="#30a69a"/>
+    <text x="47" y="215" font-family="'Segoe UI',Arial,sans-serif" font-size="14" fill="#e0e7f1">Every deployment feels like a risk</text>
+
+    <rect x="24" y="244" width="306" height="72" rx="10" fill="#102c28" stroke="#27665d"/>
+    <text x="40" y="269" font-family="'JetBrains Mono',monospace" font-size="10.5" fill="#16796f">THE PRODUCTION QUESTION</text>
+    <text x="40" y="291" font-family="'Segoe UI',Arial,sans-serif" font-size="13.5" font-weight="650" fill="#20313a">Can we trust it with real users,</text>
+    <text x="40" y="309" font-family="'Segoe UI',Arial,sans-serif" font-size="13.5" font-weight="650" fill="#20313a">real load, and a real cloud bill?</text>
+  </g>
+
+  <g transform="translate(50 413)">
+    <line x1="0" y1="0" x2="1100" y2="0" stroke="#2a3749"/>
+    <text x="0" y="29" font-family="'JetBrains Mono',monospace" font-size="10" fill="#747c87">PRODUCTION SCALE</text>
+    <text x="0" y="50" font-family="'Segoe UI',Arial,sans-serif" font-size="16" font-weight="700" fill="#f4f7fb">5M+ orders / month</text>
+
+    <text x="260" y="29" font-family="'JetBrains Mono',monospace" font-size="10" fill="#747c87">AVAILABILITY</text>
+    <text x="260" y="50" font-family="'Segoe UI',Arial,sans-serif" font-size="16" font-weight="700" fill="#f4f7fb">99.99% uptime</text>
+
+    <text x="475" y="29" font-family="'JetBrains Mono',monospace" font-size="10" fill="#747c87">COST EVIDENCE</text>
+    <text x="475" y="50" font-family="'Segoe UI',Arial,sans-serif" font-size="16" font-weight="700" fill="#f4f7fb">₹50L+ / year removed</text>
+
+    <text x="750" y="29" font-family="'JetBrains Mono',monospace" font-size="10" fill="#747c87">DELIVERY</text>
+    <text x="750" y="50" font-family="'Segoe UI',Arial,sans-serif" font-size="16" font-weight="700" fill="#f4f7fb">1,745 IaC tasks evaluated</text>
+  </g>
+</svg>
