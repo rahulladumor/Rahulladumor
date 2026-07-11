@@ -26,6 +26,11 @@ default     Boring but reliable > clever but fragile
 status      Available for selected reviews, sprints and fractional ownership
 ```
 
+> ### 3:47 AM — the call I get hired for
+>
+> Most engagements start the same way: something is on fire, the AWS bill stopped making sense, or a GenAI system is falling apart under real traffic. I find what is bleeding, stop it, and make sure it cannot happen again — the boring, reliable kind of system that does not wake you up at 3 AM.
+
+
 ---
 
 ## Choose your route
@@ -185,16 +190,6 @@ The numbers are useful. The decision trail behind them is more important.
 | **Production control** | Phased change, explicit rollback, credential remediation and post-migration validation. |
 | **Outcome** | Smaller blast radius and a system the operating team could explain and own. |
 
-### ADR / AI-generated infrastructure must earn trust
-
-| | |
-|---|---|
-| **Signal** | Infrastructure tasks varied across repositories, languages and IaC frameworks. |
-| **Failure chain** | Generated output was not enough; repository context, tests and framework-specific validation could still fail. |
-| **Decision** | Treat deterministic repository validation and CI quality gates as part of the AI system. |
-| **Control surface** | Automated curation, CI/CD repair, multi-repository checks and repeatable evaluation. |
-| **Outcome** | 1,745 evaluated tasks with 96.3% validated quality across Terraform, CDK, CDKTF, Pulumi and CloudFormation. |
-
 ### ADR / RAG quality is an operating metric
 
 | | |
@@ -206,6 +201,8 @@ The numbers are useful. The decision trail behind them is more important.
 
 ---
 
+*More decision records — including AI-generated infrastructure validation — at [InfraTales](https://github.com/InfraTales).*
+
 ## Systems under construction
 
 <table>
@@ -213,6 +210,8 @@ The numbers are useful. The decision trail behind them is more important.
 <td width="33%" valign="top">
 
 ### [IdleLens](https://idlelens.com)
+
+`BUILDING · v0.6.0`
 
 **AWS waste evidence engine**
 
@@ -225,6 +224,8 @@ A read-only scanner that converts resource evidence into prioritised findings wi
 
 ### [InfraTales](https://infratales.com)
 
+`LAUNCHED · 7 Apr 2026`
+
 **Architecture field notes**
 
 An engineering publication and open-source organisation documenting what broke, what it cost, what changed and how the system became safer.
@@ -235,6 +236,8 @@ An engineering publication and open-source organisation documenting what broke, 
 <td width="33%" valign="top">
 
 ### AI Agent Telemetry
+
+`BUILDING · prototype`
 
 **Private control-plane prototype**
 
